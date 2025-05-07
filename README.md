@@ -1,18 +1,5 @@
-<pre align="center">
-
-      █████╗ ██╗  ██╗███╗   ███╗ █████╗ ██████╗     ██╗   ██╗ █████╗ ███████╗██╗███╗   ██╗
-     ██╔══██╗██║ ██╔╝████╗ ████║██╔══██╗██╔══██╗    ██║   ██║██╔══██╗██╔════╝██║████╗  ██║
-     ███████║█████╔╝ ██╔████╔██║███████║██████╔╝    ██║   ██║███████║███████╗██║██╔██╗ ██║
-     ██╔══██║██╔═██╗ ██║╚██╔╝██║██╔══██║██╔═══╝     ██║   ██║██╔══██║╚════██║██║██║╚██╗██║
-     ██║  ██║██║  ██╗██║ ╚═╝ ██║██║  ██║██║         ╚██████╔╝██║  ██║███████║██║██║ ╚████║
-     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝          ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝
-
-</pre>
-
-<h3 align="center">⚙️ AI/ML Engineer | 🧠 GPT-4 & Vision Systems | 🖥️ Full-Stack Developer | 🚀 Founder @ Nexariza</h3>
-
 <h1 align="center">Hi, I'm Ahmad Yasin 👋</h1>
-<h3 align="center">AI/ML Engineer • Full-Stack Developer • Founder of Nexariza</h3>
+<h3 align="center">⚙️ AI/ML Engineer | 🧠 GPT-4 & Vision Systems | 🖥️ Full-Stack Developer | 🚀 Founder @ Nexariza</h3>
 
 <p align="center">
   <a href="https://ahmadyasin.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
