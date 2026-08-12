@@ -1,591 +1,675 @@
-<h1 align="center">Hi, I'm Ahmad Yasin 👋</h1>
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                    AHMAD YASIN · NEXARIZA AI                     -->
+<!--          AI Engineer · Technical Founder · AI Systems Architect  -->
+<!--          Pakistan → US · EU · UAE · MENA  ·  nexariza.com        -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">
-AI/ML Engineer • AI Systems Architect • Full-Stack Developer • Technical Founder
-</h3>
+<!-- ╔═══════════════════ ANIMATED HEADER ════════════════════════╗ -->
+<div align="center">
 
-<p align="center">
-  <a href="https://ahmadyasin.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/Ahmadyasin1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://huggingface.co/AhmadYasin" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ahmadyasin1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://nexariza.com" target="_blank">
-    <img src="https://img.shields.io/badge/Nexariza%20AI-111111?style=for-the-badge&logo=ai&logoColor=white" alt="Nexariza AI"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:00D4FF,75:7C3AED,100:0D1117&height=290&section=header&text=Ahmad%20Yasin&fontSize=88&animation=fadeIn&fontAlignY=40&fontColor=FFFFFF&desc=AI%20Engineer%20%E2%80%A2%20Founder%20%40%20Nexariza%20AI%20%E2%80%A2%20AI%20Systems%20Architect&descAlignY=62&descAlign=50&descSize=19&descColor=C0E8FF" width="100%"/>
 
-<p align="center">
-  <a href="https://instagram.com/mianahmadyasin" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://facebook.com/mianahmadyasin" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.youtube.com/@NexarizaLearningHub" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
+</div>
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
 
-<p align="center">
-  <strong>Building intelligent products, AI employees, and production-ready AI systems that solve real business problems.</strong>
-</p>
+<!-- ╔═══════════════════ TYPING ANIMATION ═══════════════════════╗ -->
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&random=false&width=820&height=55&lines=🚀+Building+Production+AI+Systems+That+Scale;🤖+LLM+·+Agentic+AI+·+Computer+Vision+Specialist;🏢+Founder+%26+CEO+—+Nexariza+AI+·+nexariza.com;⚡+60%2B+AI+Systems+Delivered+in+Production;🌍+Remote+Partner+for+US+·+EU+·+UAE+·+MENA+Clients;🏆+National+AI+Hackathon+Champion+2024+—+CV+Track" alt="Typing SVG"/>
 
-## 🚀 About Me
+</div>
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
 
-I'm **Ahmad Yasin**, an **AI/ML Engineer, Full-Stack Developer, and Founder & CEO of Nexariza AI**, specializing in the design and development of intelligent software products.
+<br/>
 
-I work at the intersection of **Artificial Intelligence, Machine Learning, Computer Vision, Generative AI, Agentic AI, and modern full-stack engineering** — transforming complex ideas into scalable, production-ready applications.
+<!-- ╔═══════════════════ STATUS BADGES ══════════════════════════╗ -->
+<div align="center">
 
-I recently completed my **BS in Artificial Intelligence** with a **3.81/4.00 CGPA**, with a strong focus on:
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmadyasin1&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub Followers](https://img.shields.io/github/followers/Ahmadyasin1?color=7C3AED&style=for-the-badge&logo=github&label=FOLLOWERS&logoColor=white)](https://github.com/Ahmadyasin1)
+[![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-41%2B-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmadyasin1?tab=repositories)
+[![Open For Work](https://img.shields.io/badge/🔥%20OPEN%20FOR-AI%20PROJECTS-7C3AED?style=for-the-badge)](https://nexariza.com/contact)
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Deep Learning & Neural Networks
-* 👁️ Computer Vision
-* 🎥 Multimodal Learning & Video Understanding
-* 🏥 Medical Imaging AI
-* 🔗 Generative AI & LLM Applications
-* 🧩 AI Agents & Agentic Workflows
-* 🌐 Full-Stack AI Product Development
+</div>
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
 
-As the founder of **Nexariza AI**, I focus on building technology that goes beyond prototypes — from intelligent automation and AI agents to computer vision systems, RAG applications, SaaS platforms, and custom AI solutions for businesses.
+<br/>
+
+<!-- ╔═══════════════════ PLATFORM BADGES ════════════════════════╗ -->
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ahmadyasin.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmadyasin.vercel.app)
+[![Nexariza AI](https://img.shields.io/badge/🏢_Nexariza_AI-nexariza.com-00D4FF?style=for-the-badge&logoColor=black)](https://nexariza.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadyasin1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmadyasin1)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/AhmadYasin)
+
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/dDmlq9G)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013900a3c3552a40a6?mp_source=share)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NexarizaLearningHub)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ahmadyasin1)
+[![Google Dev](https://img.shields.io/badge/g.dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/ahmad-yasin)
+
+</div>
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
 
 ---
 
-## 🏢 Founder & CEO — Nexariza AI
+<!-- ╔═══════════════════ IMPACT NUMBERS ═════════════════════════╗ -->
+<div align="center">
 
-**Nexariza AI** is a technology company focused on building **AI-powered products, intelligent automation, AI employees, and custom software solutions**.
+## ⚡ Impact at a Glance
 
-🌐 **Website:** https://nexariza.com
+<table>
+  <tr>
+    <td align="center"><b>60+</b><br/><sub>Production AI Systems</sub></td>
+    <td align="center"><b>4+ Years</b><br/><sub>AI Engineering</sub></td>
+    <td align="center"><b>🏆 #1</b><br/><sub>National AI Hackathon 2024</sub></td>
+    <td align="center"><b>3.81 / 4.00</b><br/><sub>Academic CGPA · UCP</sub></td>
+    <td align="center"><b>4 Markets</b><br/><sub>US · EU · UAE · MENA</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b>41+</b><br/><sub>Public GitHub Repos</sub></td>
+    <td align="center"><b>1</b><br/><sub>Peer-Reviewed Publication</sub></td>
+    <td align="center"><b>🎤 GDG</b><br/><sub>Google Developer Groups Speaker</sub></td>
+    <td align="center"><b>60+</b><br/><sub>YouTube Educational Videos</sub></td>
+    <td align="center"><b>4.00 / 4.00</b><br/><sub>Perfect Semester 7 GPA</sub></td>
+  </tr>
+</table>
 
-Our work spans:
-
-* 🤖 AI Agents & Autonomous Workflows
-* 🧠 Generative AI & LLM Applications
-* 🔍 RAG & Knowledge-Based AI Systems
-* 👁️ Computer Vision & Image Intelligence
-* 🎥 Video Understanding & Multimodal AI
-* ⚙️ Business Process Automation
-* 📊 AI-Powered SaaS Products
-* 🌐 Full-Stack Web Applications
-* 📈 AI-Powered Marketing & Lead Generation
-* 🛠️ Custom AI Engineering & Deployment
-
-### Our Philosophy
-
-> **Don't just automate tasks. Build intelligent systems that can understand, reason, act, and improve.**
-
----
-
-## 🧠 What I Build
-
-### 🤖 Generative AI & LLM Systems
-
-I build production-oriented applications around modern LLM technologies, including:
-
-* LLM-powered applications
-* AI assistants & copilots
-* AI customer support systems
-* RAG pipelines
-* Document intelligence
-* Semantic search
-* Knowledge bases
-* Prompt engineering
-* Structured LLM workflows
-* Function/tool calling
-* Multi-agent systems
-* AI automation
-
-**Technologies:** OpenAI • Anthropic • Google Gemini • LangChain • LangGraph • Qdrant • Supabase
+</div>
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
 
 ---
 
-### 🧩 AI Agents & Agentic Systems
+<!-- ╔═══════════════════ ABOUT ME ════════════════════════════════╗ -->
 
-I design AI agents capable of interacting with APIs, databases, tools, and business workflows.
+## 🧑‍💻 Who Is Ahmad Yasin?
 
-Typical systems include:
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ahmadyasin1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&text_color=C0E8FF&icon_color=7C3AED&ring_color=00D4FF" alt="Ahmad's GitHub Stats"/>
 
-```text
-User
-  ↓
-AI Agent
-  ↓
-Reasoning / Planning
-  ↓
-Tools & APIs
-  ↓
-Database / External Services
-  ↓
-Validation
-  ↓
-Action / Response
+I'm **Ahmad Yasin** — an **AI/ML Engineer, Full-Stack Developer, and the Founder & CEO of [Nexariza AI](https://nexariza.com)** — an AI engineering consultancy turning complex ideas into **production-ready, scalable intelligent systems** for clients across the US, EU, UAE, and MENA.
+
+I operate at the full depth of the AI stack. Most AI engineers can't build the product. Most developers can't build the AI. **I build both — end to end.**
+
+**Career highlights:**
+- 🎓 **BS Artificial Intelligence** — 3.81 CGPA | Final-year avg **3.97/4.00** | Perfect **4.00** in S7
+- 🏆 **National AI Hackathon Champion** — #1, Computer Vision Track, 2024
+- 🏢 **Founded Nexariza AI** (Aug 2024) — 60+ production AI systems delivered
+- 🎤 **Speaker** at Google Developer Groups (GDG) UCP — AI/ML sessions
+- 🔬 **Peer-reviewed publication** in Medical AI & Deep Learning
+- 🌍 **4+ years** serving international clients remotely (US, EU, UAE, MENA)
+- 🤗 **Open-source contributor** — 41+ public AI/ML repositories
+
+> *"The best AI system is one that works reliably in production — not just in a notebook."*
+
+<br clear="right"/>
+
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
+
+---
+
+<!-- ╔═══════════════════ NEXARIZA AI ════════════════════════════╗ -->
+
+## 🏢 Nexariza AI — *Intelligent Systems for Forward-Thinking Businesses*
+
+<div align="center">
+
+> **Building AI Employees · Intelligent Automation · Production-Grade AI Systems**
+>
+> 🌐 [nexariza.com](https://nexariza.com) &nbsp;·&nbsp; 📩 [contact@nexariza.com](mailto:contact@nexariza.com) &nbsp;·&nbsp; 🎯 [Fiverr](https://www.fiverr.com/s/dDmlq9G) &nbsp;·&nbsp; 💼 [Upwork](https://www.upwork.com/freelancers/~013900a3c3552a40a6)
+
+</div>
+
+Founded in **August 2024**, Nexariza AI has shipped **60+ production AI systems** across industries — helping startups and enterprises **automate intelligently**, operate at scale, and outperform competitors with cutting-edge AI.
+
+| ✅ **End-to-End Ownership** | ✅ **Production-First Mindset** | ✅ **Research-Backed Engineering** |
+|:---:|:---:|:---:|
+| Idea → Architecture → AI → Backend → Frontend → Deployment | No demos. No notebooks. Only real deployed systems. | Grounded in latest academic and industry AI research |
+
+| ✅ **Global & Remote-Ready** | ✅ **Agile Delivery** | ✅ **Business-Aligned AI** |
+|:---:|:---:|:---:|
+| Full timezone coverage: US, EU, UAE, MENA | Sprint-based, milestone-driven, async-friendly | ROI-focused engineering, not technology theater |
+
+---
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
+
+<!-- ╔═══════════════════ WHAT WE BUILD ══════════════════════════╗ -->
+
+## 🛠️ What We Build
+
+<details open>
+<summary><b>🤖 Generative AI & LLM Systems</b></summary>
+<br/>
+
+> Custom LLM-powered applications that go far beyond ChatGPT wrappers.
+
+- **AI Assistants & Copilots** — Domain-specific, persona-tuned intelligent agents
+- **RAG Pipelines** — Retrieval-Augmented Generation with real enterprise knowledge bases
+- **Document Intelligence** — Automated extraction, classification, summarization, and routing
+- **Semantic Search** — Vector-based search over custom corpora at scale
+- **AI Customer Support** — 24/7 fully autonomous support agents with escalation logic
+- **Multi-Agent Orchestration** — LangGraph-based agent networks with state management
+- **Structured LLM Workflows** — Prompt chaining, tool calling, guardrails, evaluations
+
+**Stack:** `OpenAI` · `Anthropic Claude` · `Google Gemini` · `LangChain` · `LangGraph` · `Qdrant` · `ChromaDB` · `Supabase` · `VAPI`
+
+</details>
+
+<details>
+<summary><b>🧩 Agentic AI & Autonomous Workflows</b></summary>
+<br/>
+
+> AI agents that don't just answer — they act.
+
+```
+User Intent
+      ↓
+AI Agent (Reasoning + Planning Layer)
+      ↓
+Tool Selection & Multi-step Execution
+      ↓
+APIs · Databases · External Services
+      ↓
+Validation · Error Recovery · Quality Check
+      ↓
+Human-in-the-Loop (configurable)
+      ↓
+Final Deliverable / Autonomous Action
 ```
 
-I work with:
+**Capabilities:** Multi-step reasoning · API integration · Persistent state · Feedback loops · Workflow automation · Error recovery
 
-* LangGraph
-* LangChain
-* Tool Calling
-* Multi-Agent Architectures
-* API Integrations
-* Workflow Automation
-* State Management
-* Human-in-the-Loop Systems
-* AI-powered business workflows
+</details>
+
+<details>
+<summary><b>👁️ Computer Vision & Deep Learning</b></summary>
+<br/>
+
+> Intelligent vision systems engineered for real production environments.
+
+- **Object Detection** — YOLOv8, custom-trained for domain-specific classes
+- **Face Recognition** — SCRFD + AdaFace, sub-second latency with ONNX Runtime
+- **Real-Time Tracking** — Multi-object tracking with ByteTrack
+- **Medical Imaging AI** — MRI analysis, cancer detection, computer-aided diagnosis
+- **OCR & Document Vision** — EasyOCR, intelligent document extraction
+- **Industrial Vision** — Defect detection, quality control, assembly verification
+- **Video Analytics** — Event detection, anomaly recognition, behavioral analysis
+
+**Stack:** `PyTorch` · `YOLOv8` · `OpenCV` · `ONNX Runtime` · `ByteTrack` · `SCRFD` · `AdaFace` · `EasyOCR` · `DeepFace` · `TensorFlow`
+
+</details>
+
+<details>
+<summary><b>🎥 Multimodal & Video AI</b></summary>
+<br/>
+
+> Understanding the world through multiple simultaneous information channels.
+
+- **Video Understanding** — Frame-level + temporal reasoning across long videos
+- **Multimodal Transformers** — Fusing visual, audio, and textual signals
+- **Vision-Language Models** — Cross-modal embedding, retrieval, and reasoning
+- **Action Recognition** — Activity classification and anomaly detection from video
+- **Visual QA** — Natural language question answering over visual content
+
+**Flagship:** Detectra AI — Custom `CrossModalTransformer` fusing YOLOv8 + ByteTrack + Whisper Large-v3 + EasyOCR
+
+</details>
+
+<details>
+<summary><b>🌐 Full-Stack AI Applications</b></summary>
+<br/>
+
+> Complete AI-powered software products — not just isolated models.
+
+**Backend:** `FastAPI` · `Django` · `Node.js` · REST APIs · WebSocket · Background workers  
+**Frontend:** `React` · `Next.js` · `Vite` · `Tailwind CSS` · `TypeScript`  
+**Databases:** `PostgreSQL` · `Supabase` · `SQLite` · `Redis` · `Qdrant`  
+**DevOps:** `Docker` · `Azure` · `Vercel` · `GitHub Actions` · `Linux` · `CI/CD`
+
+</details>
+
+<details>
+<summary><b>🏥 Medical Imaging AI</b></summary>
+<br/>
+
+> Deep learning applied to clinical imaging challenges.
+
+- **Prostate Cancer Detection from MRI** — ~94.2% accuracy · 0.96 AUC-ROC (peer-reviewed)
+- **Bone Fracture Detection** — X-ray based fracture classification
+- **CNN-based CAD Systems** — Computer-aided diagnosis pipelines
+- **Medical Image Segmentation** — Region-of-interest extraction and analysis
+- **Grad-CAM Visualizations** — Explainable AI for clinical trust
+
+</details>
+
+<details>
+<summary><b>⚙️ Business Process Automation</b></summary>
+<br/>
+
+> Replace manual workflows with intelligent, self-running systems.
+
+- n8n-based automation pipelines with AI decision nodes
+- CRM integrations and intelligent lead enrichment
+- AI-powered email outreach (SPF/DKIM/DMARC compliant)
+- VAPI-powered AI voice agents for outbound sales
+- Apollo-based lead generation and qualification
+- Webhook-driven event automation and data routing
+
+</details>
+
+---
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
+
+<!-- ╔═══════════════════ TECH STACK ═════════════════════════════╗ -->
+
+## 💻 Technology Arsenal
+
+<div align="center">
+
+### 🤖 AI · Machine Learning · Computer Vision
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" alt="AI Stack"/>
+
+### 🌐 Backend · Frontend · Full-Stack
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,django,react,nextjs,ts,tailwind,vite&theme=dark" alt="Full Stack"/>
+
+### 🗄️ Databases · Cloud · DevOps
+<img src="https://skillicons.dev/icons?i=postgres,redis,supabase,docker,azure,linux,git,github&theme=dark" alt="Infrastructure"/>
+
+</div>
+
+<div align="center">
+
+**Specialized AI & LLM Ecosystem**
+
+`LangChain` · `LangGraph` · `OpenAI API` · `Anthropic Claude` · `Google Gemini` · `Hugging Face Transformers`  
+`YOLOv8` · `ByteTrack` · `ONNX Runtime` · `SCRFD` · `AdaFace` · `Whisper Large-v3` · `EasyOCR`  
+`Qdrant` · `ChromaDB` · `Pinecone` · `n8n` · `VAPI` · `Apollo` · `Instantly.ai`
+
+</div>
+
+---
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
+
+<!-- ╔═══════════════════ SIGNATURE PROJECTS ═════════════════════╗ -->
+
+## 🔥 Signature Projects
 
 ---
 
-### 👁️ Computer Vision & Deep Learning
+### 🎬 Detectra AI — *Multimodal Video Intelligence Platform*
 
-I build intelligent vision systems for real-world applications.
+> **Final Year Project — Production-Grade Multimodal AI** · University of Central Punjab
 
-Areas include:
+A pioneering multimodal video intelligence platform built on a custom **CrossModalTransformer** architecture that simultaneously processes and fuses four distinct information modalities:
 
-* Object Detection
-* Face Detection
-* Face Recognition
-* Image Classification
-* Medical Imaging
-* Disease Detection
-* Attendance Systems
-* Real-Time Video Analytics
-* OCR & Document Vision
-* Image Embeddings
+| Modality | Model | Role in Pipeline |
+|:---|:---|:---|
+| 🎯 **Visual Detection** | `YOLOv8` | Real-time object detection & spatial localization |
+| 👤 **Object Tracking** | `ByteTrack` | Robust multi-object temporal identity tracking |
+| 🎙️ **Audio Intelligence** | `Whisper Large-v3` | High-accuracy speech-to-text transcription |
+| 📄 **Scene Text** | `EasyOCR` | On-screen text extraction from video frames |
+| 🧠 **Fusion Engine** | `CrossModalTransformer` | Cross-modal reasoning, alignment & synthesis |
 
-**Technologies:**
-
-`PyTorch` • `TensorFlow` • `Keras` • `YOLO` • `OpenCV` • `DeepFace` • `ONNX`
+**Stack:** `Python` · `PyTorch` · `FastAPI` · `React` · `YOLOv8` · `ByteTrack` · `Whisper Large-v3` · `EasyOCR` · `Docker`
 
 ---
 
-### 🎥 Multimodal & Video AI
+### 🏥 Prostate Cancer Detection from MRI — *Medical AI Research*
 
-My research and engineering interests include **multimodal learning and video understanding**.
+> **Peer-Reviewed Research** | Deep Learning · Medical Imaging
 
-My final-year project, **Detectra AI**, explores multimodal transformer-based approaches for understanding video content by combining multiple information sources.
+End-to-end CNN pipeline for automated prostate cancer detection from MRI imagery, achieving clinical-grade performance:
 
-Areas of interest:
+- **~94.2% Classification Accuracy** on held-out test set
+- **0.96 AUC-ROC** — near-clinical diagnostic performance
+- **Grad-CAM explainability** — visual decision attribution for clinical trust
+- Full publication pipeline: methodology, ablations, statistical validation
 
-* Video Understanding
-* Multimodal Transformers
-* Vision-Language Models
-* Temporal Reasoning
-* Video Classification
-* Action Recognition
-* Visual-Language Intelligence
+**Stack:** `PyTorch` · `CNN` · `Transfer Learning` · `Grad-CAM` · `Medical Image Processing`
 
 ---
 
-## 🏥 AI Research & Medical Imaging
+### 🔐 Production Face Recognition & Access Control System
 
-I am particularly interested in applying deep learning to challenging medical imaging problems.
+> **Client Delivery** | Industrial-Grade Biometric System
 
-My work includes research involving:
+Deployed biometric access control on a **Q-BOX-E10 industrial PC** for a real production environment:
 
-* Medical Image Classification
-* MRI Analysis
-* Cancer Detection
-* Computer-Aided Diagnosis
-* CNN-based Medical AI
-* Model Evaluation & Validation
+- `SCRFD` face detection + `AdaFace` recognition — state-of-the-art accuracy
+- `ONNX Runtime` — optimized edge inference with minimal latency
+- `Wiegand-48` — hardware access control protocol integration
+- `SQLite` — local encrypted identity database
+- Sub-second end-to-end identification pipeline
 
-One of my research projects focuses on **prostate cancer detection from MRI**, achieving strong experimental performance and currently being prepared for publication.
-
----
-
-## 🛠️ Technology Stack
-
-### Artificial Intelligence
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=flat-square"/>
-</p>
-
-### Generative AI & Agents
-
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square"/>
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=flat-square&logo=huggingface&logoColor=black"/>
-</p>
-
-### Backend & Databases
-
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qdrant-D1495B?style=flat-square"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
-
-### Cloud, DevOps & Deployment
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</p>
+**Stack:** `Python` · `ONNX Runtime` · `SCRFD` · `AdaFace` · `SQLite` · `Wiegand-48`
 
 ---
 
-## 🔥 Featured Areas of Expertise
+### 🚀 Nexariza Flow — *Self-Hosted Browser Automation Platform*
 
-| Area                | Expertise                                           |
-| ------------------- | --------------------------------------------------- |
-| 🤖 Generative AI    | LLM Applications, RAG, AI Assistants, Tool Calling  |
-| 🧩 Agentic AI       | LangGraph, LangChain, Multi-Agent Systems           |
-| 👁️ Computer Vision | YOLO, OpenCV, Face Recognition, Detection           |
-| 🧠 Deep Learning    | CNNs, Transformers, Transfer Learning               |
-| 🎥 Multimodal AI    | Video Understanding, Vision-Language Systems        |
-| 🏥 Medical AI       | MRI Analysis, Medical Image Classification          |
-| 🌐 Full Stack       | React, Next.js, FastAPI, Node.js                    |
-| 🗄️ Data & Search   | PostgreSQL, Supabase, Redis, Qdrant                 |
-| ☁️ Deployment       | Docker, Azure, Vercel, CI/CD                        |
-| ⚙️ Automation       | AI Workflows, API Integrations, Business Automation |
+> **Internal Infrastructure** | Full-Stack Platform Rebrand
 
----
+Complete transformation of a Chrome extension into a fully self-hosted platform:
 
-## 🚀 Selected AI Projects
+- `FastAPI` backend with `SQLite` persistence layer
+- Admin dashboard for full operational control
+- Rebranded Manifest V3 Chrome extension
+- Automatic Google account rotation engine
+- Cookie auto-bridge synchronization system
 
-### 🔬 Detectra AI
-
-**Multimodal AI system for video understanding**
-
-Exploring transformer-based approaches for understanding complex video content using multimodal information.
-
-**Focus:**
-`Multimodal Transformers` • `Video Understanding` • `Computer Vision` • `Deep Learning`
+**Stack:** `FastAPI` · `SQLite` · `Chrome Extension (MV3)` · `Python` · `JavaScript`
 
 ---
 
-### 🏥 Prostate Cancer Detection
+### 🌿 Plant Disease Detection — *Agricultural AI*
 
-Deep learning research project focused on detecting prostate cancer from MRI imagery.
-
-**Focus:**
-`Medical Imaging` • `CNN` • `MRI` • `Computer Vision` • `Model Evaluation`
-
-Experimental results achieved approximately **94.2% accuracy with 0.96 AUC-ROC**.
+Multi-class plant disease classifier using `EfficientNetB0` + `MobileNetV2` — enabling early-stage crop disease identification from leaf imagery for agricultural decision support.
 
 ---
 
-### 👁️ Face Recognition & Attendance Systems
+### 🦴 Bone Fracture Detection — *Medical AI*
 
-Real-time face recognition systems designed for practical attendance and identity-verification use cases.
-
-**Technologies:**
-`Python` • `OpenCV` • `DeepFace` • `SCRFD` • `AdaFace` • `ONNX`
+CNN-based fracture detection from X-ray imagery for clinical decision support, with explainable localization.
 
 ---
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
 
-### 🌱 Plant Disease Detection
+<!-- ╔═══════════════════ GITHUB METRICS ═════════════════════════╗ -->
 
-Deep-learning based plant disease classification using transfer learning architectures.
+## 📊 GitHub Metrics
 
-Experimental work includes **EfficientNetB0** and **MobileNetV2** models.
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmadyasin1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&text_color=C0E8FF&icon_color=7C3AED" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadyasin1&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&text_color=C0E8FF&langs_count=8" width="40%" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Ahmadyasin1&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=C0E8FF&dates=888888" width="57%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+**🏆 GitHub Profile Trophies**
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmadyasin1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
+
+</div>
 
 ---
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
 
-### 🦴 Bone Fracture Detection
+<!-- ╔═══════════════════ ACTIVITY GRAPH ═════════════════════════╗ -->
 
-Computer vision system for detecting fractures from X-ray imagery using deep learning.
+## 📈 Contribution Activity
 
-**Focus:**
-`Medical AI` • `CNN` • `Computer Vision` • `Image Classification`
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadyasin1&custom_title=Ahmad%20Yasin%20%E2%80%94%20Contribution%20Graph&bg_color=0D1117&color=00D4FF&line=7C3AED&point=FFFFFF&area_color=00D4FF&title_color=FFFFFF&area=true&hide_border=true" width="97%" alt="Contribution Activity Graph"/>
 
-### 🍄 Mushroom Classification
-
-Deep-learning image classification project for identifying mushroom categories from visual characteristics.
+</div>
 
 ---
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
 
-## 📊 Engineering Approach
+<!-- ╔═══════════════════ JOURNEY TIMELINE ═══════════════════════╗ -->
 
-I don't believe in building AI demos that only work inside a notebook.
-
-My approach is:
+## 🗺️ Journey
 
 ```text
-Problem
-   ↓
-Research & Architecture
-   ↓
-Data / Knowledge Pipeline
-   ↓
-AI / ML Model
-   ↓
-Backend & APIs
-   ↓
-Frontend / Product
-   ↓
-Testing & Evaluation
-   ↓
-Deployment
-   ↓
-Monitoring & Iteration
+2022 ──▶ Started freelancing (Fiverr) · First international AI/ML clients
+         Enrolled in BS Artificial Intelligence · University of Central Punjab
+         
+2023 ──▶ Delivered 10+ AI projects for US & EU clients
+         Deepened expertise in Computer Vision, NLP, and LLM applications
+         
+2024 ──▶ 🏆 Ranked #1 — National AI Hackathon · Computer Vision Track
+         🏢 Founded Nexariza AI (August 2024) · AI Engineering Consultancy
+         🎤 Spoke at Google Developer Groups (GDG) UCP
+         Delivered 40+ production AI systems · Expanded to UAE & MENA clients
+         
+2025 ──▶ Scaled Nexariza AI → 60+ production AI systems delivered globally
+         Published peer-reviewed research in Medical AI
+         Built VAPI AI call agents, Apollo lead pipelines, cold email infra
+         
+2026 ──▶ 🎓 Graduated BS AI — CGPA 3.81/4.00 (Final year avg: 3.97/4.00)
+         Nexariza AI → expanding into AI SaaS products & AI Employees
+         Currently: scaling Nexariza AI into a global AI powerhouse 🚀
 ```
 
-The goal is simple:
+---
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
 
-> **Turn AI research into useful, reliable, and scalable software.**
+<!-- ╔═══════════════════ KEY ACHIEVEMENTS ═══════════════════════╗ -->
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+| Achievement | Detail |
+|:---|:---|
+| 🥇 **National AI Hackathon Champion** | Ranked **#1** · Computer Vision Track · Pakistan 2024 |
+| 🎓 **Academic Excellence** | **3.81/4.00 CGPA** · Perfect **4.00** in Semester 7 · Final-year avg **3.97/4.00** |
+| 🔬 **Peer-Reviewed Research** | Published in Medical AI & Deep Learning (Prostate Cancer from MRI) |
+| 🎤 **Tech Speaker** | Google Developer Groups (GDG) UCP — AI/ML educational sessions |
+| 🏢 **Founder & CEO** | Built Nexariza AI from 0 → 60+ production AI systems, global client base |
+| 🌍 **Global AI Partner** | 4+ years serving US, EU, UAE, MENA clients fully remotely |
+| 🤗 **Open Source** | 41+ public repositories across AI, ML, CV, and full-stack |
+| 🎥 **Content Creator** | 60+ educational videos · Nexariza Learning Hub on YouTube |
+| 📜 **Certified** | BS Artificial Intelligence · University of Central Punjab · July 2026 |
+
+</div>
+
+---
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
+
+<!-- ╔═══════════════════ WHY CHOOSE ME ══════════════════════════╗ -->
+
+## 💡 Why Clients Choose Ahmad Yasin & Nexariza AI
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   🧠  AI Depth + Full-Stack Execution = Complete Products        │
+│       Most AI engineers can't ship the product.                  │
+│       Most developers can't build the AI.                        │
+│       Ahmad does both — model to deployed product.               │
+│                                                                  │
+│   ⚡  Production-First, Always                                   │
+│       No demos. No Jupyter notebooks as deliverables.            │
+│       Real APIs. Real deployments. Real users.                   │
+│                                                                  │
+│   🔬  Research Depth Meets Engineering Execution                 │
+│       Academic rigor (peer-reviewed research) applied            │
+│       to practical, business-grade system design.                │
+│                                                                  │
+│   🌍  4+ Years of Global Remote Experience                       │
+│       US, EU, UAE, MENA — zero timezone friction,                │
+│       async-native, always-communicative.                        │
+│                                                                  │
+│   🚀  Founder Mindset, Not Just Developer Mindset                │
+│       I think about your business problem, your users,           │
+│       and your outcomes — not just lines of code.                │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
+
+<!-- ╔═══════════════════ ENGINEERING APPROACH ═══════════════════╗ -->
+
+## ⚙️ Engineering Philosophy
+
+<div align="center">
+
+```
+        Problem Definition & Business Goals
+                       ↓
+        Research & System Architecture Design
+                       ↓
+        Data Pipeline / Knowledge Engineering
+                       ↓
+        AI / ML Model Development & Training
+                       ↓
+        Backend APIs, Business Logic & Integrations
+                       ↓
+        Frontend Interface / Product Layer
+                       ↓
+        Testing, Evaluation & Quality Assurance
+                       ↓
+        Deployment · Cloud Infrastructure · CI/CD
+                       ↓
+        Monitoring · Feedback Loops · Iteration
+```
+
+> **From idea to production-deployed, business-grade AI product. Always.**
+
+</div>
+
+---
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
+
+<!-- ╔═══════════════════ CURRENTLY EXPLORING ════════════════════╗ -->
+
+## 🔭 Currently Building & Exploring
+
+```yaml
+Active Focus:
+  - Nexariza AI → scaling client base across US, EU, UAE, MENA
+  - AI SaaS product development (Nexariza internal platform)
+  - VAPI-powered AI voice agents for outbound sales automation
+  - Advanced multimodal AI research (post-Detectra AI)
+  - Medical AI publication pipeline
+
+Deep Interest Areas:
+  - Agentic AI & multi-agent orchestration (LangGraph)
+  - Long-context & reasoning LLMs (Claude, GPT-4o, Gemini)
+  - Retrieval-Augmented Generation at scale
+  - Computer vision for industrial & medical applications
+  - AI Employees — autonomous agents that run business workflows
+```
+
+---
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
+
+<!-- ╔═══════════════════ KNOWLEDGE SHARING ══════════════════════╗ -->
+
+## 📚 Nexariza Learning Hub
+
+<div align="center">
+
+[![YouTube Channel](https://img.shields.io/badge/▶️%20Nexariza%20Learning%20Hub-60%2B%20Videos%20Published-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NexarizaLearningHub)
+
+</div>
+
+Advanced technology — made accessible. Through **Nexariza Learning Hub**, practical education is shared on:
+
+`Artificial Intelligence` · `Machine Learning` · `Computer Vision` · `Generative AI` · `LLMs` · `Python` · `Assembly Language` · `Software Engineering` · `AI Tools & Frameworks`
+
+> *Top-performing content: Assembly language series and AI engineering walkthroughs for real applications.*
+
+---
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
+
+<!-- ╔═══════════════════ SEO / AEO SECTION ══════════════════════╗ -->
+
+## 🔍 For Search Engines & AI Discovery
+
+**Who is Ahmad Yasin?**
+Ahmad Yasin is an AI/ML Engineer, Full-Stack Developer, and the Founder & CEO of Nexariza AI — an AI engineering consultancy headquartered in Lahore, Pakistan, delivering production-grade AI systems to clients across the United States, European Union, UAE, and MENA. He holds a Bachelor of Science in Artificial Intelligence from the University of Central Punjab (CGPA: 3.81/4.00, graduated July 2026) and won 1st place at the National AI Hackathon 2024 in the Computer Vision track. He has a peer-reviewed research publication in medical AI and has spoken at Google Developer Groups (GDG) events.
+
+**What does Nexariza AI build?**
+Nexariza AI designs and delivers: LLM-powered applications, RAG systems, AI agents and agentic workflows, computer vision systems (YOLOv8, ONNX, ByteTrack), medical imaging AI, multimodal video intelligence platforms, FastAPI + React full-stack AI applications, n8n business automation pipelines, VAPI AI voice agents, and custom AI SaaS products — all production-deployed and enterprise-grade.
+
+**What technologies does Ahmad Yasin use?**
+Python, PyTorch, TensorFlow, YOLOv8, OpenCV, ONNX Runtime, FastAPI, Django, Node.js, React, Next.js, LangChain, LangGraph, OpenAI API, Anthropic Claude, Google Gemini, Hugging Face, Qdrant, ChromaDB, PostgreSQL, Supabase, Redis, Docker, Azure, GitHub Actions, SCRFD, AdaFace, ByteTrack, EasyOCR, Whisper, VAPI, n8n, Apollo.io.
+
+**Keywords for discovery:**
+`AI Engineer Pakistan` · `Machine Learning Engineer Lahore` · `Computer Vision Engineer for hire` · `LLM Developer remote` · `AI Consultant Pakistan` · `Generative AI Developer` · `RAG Systems Engineer` · `Agentic AI Developer` · `YOLOv8 Developer` · `LangChain Expert` · `LangGraph Developer` · `FastAPI AI Backend` · `AI Startup Pakistan` · `Nexariza AI` · `Ahmad Yasin AI Engineer` · `Hire AI Engineer remote` · `AI SaaS development Pakistan` · `Medical Imaging AI` · `Multimodal AI Engineer` · `AI Agent Developer`
+
+---
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
+
+<!-- ╔═══════════════════ CONTACT / CTA ══════════════════════════╗ -->
+
+## 📫 Let's Build Something Exceptional Together
+
+<div align="center">
+
+### 🔥 Available for AI Projects — Remote · Worldwide
+
+*If your business needs intelligent automation, a custom AI system,*
+*a production AI product, or an experienced AI engineering partner — let's talk.*
+
+<br/>
+
+[![🚀 Start a Project](https://img.shields.io/badge/🚀_Start%20a%20Project-nexariza.com/contact-00D4FF?style=for-the-badge)](https://nexariza.com/contact)
+[![💼 View Portfolio](https://img.shields.io/badge/💼_View%20Portfolio-ahmadyasin.vercel.app-7C3AED?style=for-the-badge)](https://ahmadyasin.vercel.app)
+[![💬 Connect on LinkedIn](https://img.shields.io/badge/💬_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadyasin1)
+[![📧 Email](https://img.shields.io/badge/📧_Email-contact@nexariza.com-111111?style=for-the-badge)](mailto:contact@nexariza.com)
+
+<br/>
+
+**I'm available for:**
+`AI Agents` · `LLM Applications` · `RAG & Knowledge Systems` · `Computer Vision` · `Multimodal AI`  
+`Medical Imaging AI` · `AI SaaS Products` · `Full-Stack AI Applications` · `Business Automation` · `AI Consulting`
+
+<br/>
+
+**Hire via your preferred platform:**
+
+| 🎯 Fiverr | 💼 Upwork | 🚀 Contra |
+|:---:|:---:|:---:|
+| [Nexariza AI on Fiverr](https://www.fiverr.com/s/dDmlq9G) | [Ahmad Yasin on Upwork](https://www.upwork.com/freelancers/~013900a3c3552a40a6) | [Nexariza AI on Contra](https://contra.com/company/nexariza_ai_762ab8) |
+
+</div>
 
 ---
 
-## 💼 How I Can Help Your Business
+<!-- ╔═══════════════════ FULL CONTACT TABLE ═════════════════════╗ -->
+<div align="center">
 
-If you're looking to build an AI-powered product, I can help with:
+<table>
+  <tr><td colspan="2" align="center"><b>👨‍💻 Ahmad Yasin — All Platforms</b></td></tr>
+  <tr><td>🌐 Portfolio</td><td><a href="https://ahmadyasin.vercel.app">ahmadyasin.vercel.app</a></td></tr>
+  <tr><td>🏢 Nexariza AI</td><td><a href="https://nexariza.com">nexariza.com</a></td></tr>
+  <tr><td>📩 Business Email</td><td><a href="mailto:contact@nexariza.com">contact@nexariza.com</a></td></tr>
+  <tr><td>💼 LinkedIn</td><td><a href="https://www.linkedin.com/in/ahmadyasin1">linkedin.com/in/ahmadyasin1</a></td></tr>
+  <tr><td>💻 GitHub</td><td><a href="https://github.com/Ahmadyasin1">github.com/Ahmadyasin1</a></td></tr>
+  <tr><td>🤗 Hugging Face</td><td><a href="https://huggingface.co/AhmadYasin">huggingface.co/AhmadYasin</a></td></tr>
+  <tr><td>🧪 Kaggle</td><td><a href="https://www.kaggle.com/ahmadyasin1">kaggle.com/ahmadyasin1</a></td></tr>
+  <tr><td>🟢 Google Developer</td><td><a href="https://g.dev/ahmad-yasin">g.dev/ahmad-yasin</a></td></tr>
+  <tr><td>✍️ Medium (Blog)</td><td><a href="https://medium.com/@mianahmadyasin">medium.com/@mianahmadyasin</a></td></tr>
+  <tr><td>📸 Instagram — Personal</td><td><a href="https://instagram.com/mianahmadyasin">@mianahmadyasin</a></td></tr>
+  <tr><td>📸 Instagram — Nexariza</td><td><a href="https://www.instagram.com/nexariza_ai/">@nexariza_ai</a></td></tr>
+  <tr><td>📘 Facebook — Personal</td><td><a href="https://facebook.com/mianahmadyasin">mianahmadyasin</a></td></tr>
+  <tr><td>📘 Facebook — Nexariza</td><td><a href="https://www.facebook.com/nexariza/">Nexariza AI</a></td></tr>
+  <tr><td>🎯 Fiverr</td><td><a href="https://www.fiverr.com/s/dDmlq9G">Nexariza AI on Fiverr</a></td></tr>
+  <tr><td>💼 Upwork</td><td><a href="https://www.upwork.com/freelancers/~013900a3c3552a40a6">Ahmad Yasin on Upwork</a></td></tr>
+  <tr><td>🚀 Contra</td><td><a href="https://contra.com/company/nexariza_ai_762ab8">Nexariza AI on Contra</a></td></tr>
+  <tr><td>▶️ YouTube</td><td><a href="https://www.youtube.com/@NexarizaLearningHub">Nexariza Learning Hub</a></td></tr>
+</table>
 
-* 🤖 Custom AI Agents
-* 🧠 LLM & Generative AI Applications
-* 🔎 RAG / Knowledge Base Systems
-* 💬 AI Customer Support
-* ⚙️ Business Process Automation
-* 👁️ Computer Vision Systems
-* 🎥 Video AI Applications
-* 📄 Document Intelligence
-* 🌐 AI SaaS Platforms
-* 🔗 API & Third-Party Integrations
-* 🏗️ AI Backend Architecture
-* 🚀 AI Model Deployment
-* 📊 Machine Learning Pipelines
-* 💻 Full-Stack AI Applications
-
-### From Idea → Production
-
-**Idea → Architecture → AI → Backend → Frontend → Deployment → Scale**
-
----
-
-## 📈 Why Work With Me?
-
-### 🧠 AI + Software Engineering
-
-I combine machine-learning expertise with full-stack engineering, allowing me to build the **complete product**, not just the model.
-
-### ⚡ Production Mindset
-
-I focus on practical systems that can be deployed, integrated, maintained, and improved.
-
-### 🔬 Research-Driven
-
-My background in AI research helps me approach difficult technical problems systematically.
-
-### 🏗️ End-to-End Development
-
-From model training and APIs to databases, frontend interfaces, Docker, cloud deployment, and automation.
-
-### 🚀 Founder Perspective
-
-Through Nexariza AI, I approach technology from both an **engineering and business perspective** — focusing on the problem, the user, and the outcome.
+</div>
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
 
 ---
 
-## 🎓 Education
+<!-- ╔═══════════════════ ANIMATED FOOTER ════════════════════════╗ -->
+<div align="center">
 
-**Bachelor of Science in Artificial Intelligence**
-University of Central Punjab — Lahore, Pakistan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00D4FF,100:0D1117&height=130&section=footer&fontColor=FFFFFF&fontSize=14" width="100%"/>
 
-**CGPA:** 3.81 / 4.00
-**Completed:** July 2026
-**Credit Hours:** 132
+*AI Engineering · Intelligent Automation · AI Employees · Computer Vision · Generative AI · Full-Stack AI Products*
 
-### Relevant Coursework
+**🤝 Let's connect. Let's collaborate. Let's build the future with AI.**
 
-* Advanced Machine Learning
-* Computer Vision
-* Neural Networks
-* Reinforcement Learning
-* Artificial Intelligence
-* Deep Learning
-* Data Science
+[![Ahmad Yasin × Nexariza AI](https://img.shields.io/badge/Ahmad%20Yasin%20×%20Nexariza%20AI-nexariza.com-00D4FF?style=for-the-badge)](https://nexariza.com)
 
----
-
-## 🔬 Current Interests
-
-I'm continuously exploring:
-
-* 🤖 Agentic AI
-* 🧠 Large Language Models
-* 🔗 Multi-Agent Systems
-* 👁️ Computer Vision
-* 🎥 Multimodal Learning
-* 🏥 Medical AI
-* 🎬 Video Understanding
-* 🧩 AI + SaaS
-* ⚙️ Intelligent Automation
-* 🧠 AI Employees
-* 📚 AI Research
-
----
-
-## 📚 Knowledge Sharing
-
-I also believe in making advanced technology easier to understand.
-
-Through **Nexariza Learning Hub**, I work on educational content around:
-
-* Artificial Intelligence
-* Machine Learning
-* Python
-* Generative AI
-* Software Development
-* Computer Vision
-* AI Tools
-* Practical Development
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadyasin1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadyasin1&layout=compact&hide_border=true&langs_count=8" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahmadyasin1&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🤝 Open to Opportunities
-
-I'm interested in collaborating with:
-
-* 🚀 Startups & Founders
-* 🏢 Technology Companies
-* 💼 Businesses looking to adopt AI
-* 🔬 AI/ML Research Teams
-* 👨‍💻 Engineering Teams
-* 🤝 Technical Co-founders
-* 🌍 International Clients
-* 🎓 Research & Academic Collaborators
-
-If you have a challenging problem involving **AI, automation, computer vision, LLMs, agents, or full-stack product development**, let's talk.
-
----
-
-## 📫 Let's Connect
-
-Whether you're looking to **build an AI product, automate your business, collaborate on AI research, discuss a technical project, or explore a partnership with Nexariza AI**, I'd love to connect.
-
-<p align="center">
-  <a href="https://ahmadyasin.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Ahmad%20Yasin-111111?style=for-the-badge" alt="Ahmad Yasin Portfolio"/>
-  </a>
-  <a href="https://nexariza.com" target="_blank">
-    <img src="https://img.shields.io/badge/🏢%20Nexariza%20AI-nexariza.com-111111?style=for-the-badge" alt="Nexariza AI"/>
-  </a>
-</p>
-
-### 👨‍💻 Ahmad Yasin — Professional Profiles
-
-| Platform                        | Profile                                                                |
-| ------------------------------- | ---------------------------------------------------------------------- |
-| 🌐 **Portfolio**                | [ahmadyasin.vercel.app](https://ahmadyasin.vercel.app)                 |
-| 💼 **LinkedIn**                 | [linkedin.com/in/ahmadyasin1](https://www.linkedin.com/in/ahmadyasin1) |
-| 💻 **GitHub**                   | [github.com/Ahmadyasin1](https://github.com/Ahmadyasin1)               |
-| 🤗 **Hugging Face**             | [huggingface.co/AhmadYasin](https://huggingface.co/AhmadYasin)         |
-| 🧪 **Kaggle**                   | [kaggle.com/ahmadyasin1](https://www.kaggle.com/ahmadyasin1)           |
-| 🟢 **Google Developer Profile** | [g.dev/ahmad-yasin](https://g.dev/ahmad-yasin)                         |
-| ✍️ **Medium**                   | [medium.com/@mianahmadyasin](https://medium.com/@mianahmadyasin)       |
-| 📸 **Instagram**                | [@mianahmadyasin](https://instagram.com/mianahmadyasin)                |
-| 📘 **Facebook**                 | [mianahmadyasin](https://facebook.com/mianahmadyasin)                  |
-
----
-
-### 🏢 Nexariza AI — Official Channels
-
-**Nexariza AI** is the technology company founded by Ahmad Yasin, focused on building **AI Employees, intelligent automation, AI-powered software, and production-ready digital solutions for businesses.**
-
-| Platform                   | Official Channel                                                                                    |
-| -------------------------- | --------------------------------------------------------------------------------------------------- |
-| 🌐 **Official Website**    | [nexariza.com](https://nexariza.com)                                                                |
-| 📩 **Contact / Inquiries** | [nexariza.com/contact](https://nexariza.com/contact)                                                |
-| 💼 **LinkedIn**            | [Nexariza AI](https://www.linkedin.com/company/nexariza)                                            |
-| 📸 **Instagram**           | [@nexariza_ai](https://www.instagram.com/nexariza_ai/)                                              |
-| 📘 **Facebook**            | [Nexariza AI](https://www.facebook.com/nexariza/)                                                   |
-| 🎯 **Fiverr**              | [Nexariza AI on Fiverr](https://www.fiverr.com/s/dDmlq9G)                                           |
-| 💻 **Upwork**              | [Nexariza AI / Ahmad Yasin](https://www.upwork.com/freelancers/~013900a3c3552a40a6?mp_source=share) |
-| 🚀 **Contra**              | [Nexariza AI on Contra](https://contra.com/company/nexariza_ai_762ab8)                              |
-
----
-
-### 💼 Let's Work Together
-
-I'm open to **client projects, AI consulting, product development, research collaborations, strategic partnerships, and long-term technology engagements.**
-
-If you're working on a problem involving:
-
-* 🤖 **AI Agents & Agentic AI**
-* 🧠 **Generative AI & LLM Applications**
-* 🔎 **RAG & Knowledge-Based Systems**
-* ⚙️ **AI Workflow & Business Automation**
-* 👁️ **Computer Vision & Deep Learning**
-* 🎥 **Multimodal & Video AI**
-* 🏥 **Medical Imaging AI**
-* 🌐 **AI SaaS & Full-Stack Applications**
-* 🔗 **API & AI Integrations**
-* 🚀 **AI Product Development & Deployment**
-
-**Let's build something valuable together.**
-
-### 📩 Business & General Inquiries
-
-**Email:** `contact@nexariza.com`
-**Website:** [nexariza.com](https://nexariza.com)
-**Contact:** [nexariza.com/contact](https://nexariza.com/contact)
-
----
-
-<p align="center">
-  <a href="https://nexariza.com/contact">
-    <img src="https://img.shields.io/badge/🚀%20Start%20a%20Project-Nexariza%20AI-111111?style=for-the-badge" alt="Start a Project"/>
-  </a>
-  <a href="https://ahmadyasin.vercel.app">
-    <img src="https://img.shields.io/badge/👨‍💻%20View%20My%20Work-Ahmad%20Yasin-111111?style=for-the-badge" alt="View Portfolio"/>
-  </a>
-</p>
-
-<p align="center">
-  <strong>🤝 Let's connect. Let's collaborate. Let's build the future with AI.</strong>
-</p>
-
-<p align="center">
-  <i>AI Engineering • Intelligent Automation • AI Employees • Computer Vision • Generative AI • Full-Stack Development</i>
-</p>
+</div>
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
