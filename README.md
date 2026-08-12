@@ -502,28 +502,90 @@ If you have a challenging problem involving **AI, automation, computer vision, L
 
 ## 📫 Let's Connect
 
-<p align="center">
-  <a href="https://ahmadyasin.vercel.app">🌐 Portfolio</a> •
-  <a href="https://nexariza.com">🏢 Nexariza AI</a> •
-  <a href="https://github.com/Ahmadyasin1">💻 GitHub</a> •
-  <a href="https://huggingface.co/AhmadYasin">🤗 Hugging Face</a> •
-  <a href="https://www.linkedin.com/in/ahmadyasin1">💼 LinkedIn</a>
-</p>
+Whether you're looking to **build an AI product, automate your business, collaborate on AI research, discuss a technical project, or explore a partnership with Nexariza AI**, I'd love to connect.
 
 <p align="center">
-  <a href="mailto:ahmad@nexariza.com">📧 Email Me</a>
+  <a href="https://ahmadyasin.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Ahmad%20Yasin-111111?style=for-the-badge" alt="Ahmad Yasin Portfolio"/>
+  </a>
+  <a href="https://nexariza.com" target="_blank">
+    <img src="https://img.shields.io/badge/🏢%20Nexariza%20AI-nexariza.com-111111?style=for-the-badge" alt="Nexariza AI"/>
+  </a>
 </p>
+
+### 👨‍💻 Ahmad Yasin — Professional Profiles
+
+| Platform                        | Profile                                                                |
+| ------------------------------- | ---------------------------------------------------------------------- |
+| 🌐 **Portfolio**                | [ahmadyasin.vercel.app](https://ahmadyasin.vercel.app)                 |
+| 💼 **LinkedIn**                 | [linkedin.com/in/ahmadyasin1](https://www.linkedin.com/in/ahmadyasin1) |
+| 💻 **GitHub**                   | [github.com/Ahmadyasin1](https://github.com/Ahmadyasin1)               |
+| 🤗 **Hugging Face**             | [huggingface.co/AhmadYasin](https://huggingface.co/AhmadYasin)         |
+| 🧪 **Kaggle**                   | [kaggle.com/ahmadyasin1](https://www.kaggle.com/ahmadyasin1)           |
+| 🟢 **Google Developer Profile** | [g.dev/ahmad-yasin](https://g.dev/ahmad-yasin)                         |
+| ✍️ **Medium**                   | [medium.com/@mianahmadyasin](https://medium.com/@mianahmadyasin)       |
+| 📸 **Instagram**                | [@mianahmadyasin](https://instagram.com/mianahmadyasin)                |
+| 📘 **Facebook**                 | [mianahmadyasin](https://facebook.com/mianahmadyasin)                  |
 
 ---
 
-<h3 align="center">
-  🚀 Let's Build the Future with AI
-</h3>
+### 🏢 Nexariza AI — Official Channels
+
+**Nexariza AI** is the technology company founded by Ahmad Yasin, focused on building **AI Employees, intelligent automation, AI-powered software, and production-ready digital solutions for businesses.**
+
+| Platform                   | Official Channel                                                                                    |
+| -------------------------- | --------------------------------------------------------------------------------------------------- |
+| 🌐 **Official Website**    | [nexariza.com](https://nexariza.com)                                                                |
+| 📩 **Contact / Inquiries** | [nexariza.com/contact](https://nexariza.com/contact)                                                |
+| 💼 **LinkedIn**            | [Nexariza AI](https://www.linkedin.com/company/nexariza)                                            |
+| 📸 **Instagram**           | [@nexariza_ai](https://www.instagram.com/nexariza_ai/)                                              |
+| 📘 **Facebook**            | [Nexariza AI](https://www.facebook.com/nexariza/)                                                   |
+| 🎯 **Fiverr**              | [Nexariza AI on Fiverr](https://www.fiverr.com/s/dDmlq9G)                                           |
+| 💻 **Upwork**              | [Nexariza AI / Ahmad Yasin](https://www.upwork.com/freelancers/~013900a3c3552a40a6?mp_source=share) |
+| 🚀 **Contra**              | [Nexariza AI on Contra](https://contra.com/company/nexariza_ai_762ab8)                              |
+
+---
+
+### 💼 Let's Work Together
+
+I'm open to **client projects, AI consulting, product development, research collaborations, strategic partnerships, and long-term technology engagements.**
+
+If you're working on a problem involving:
+
+* 🤖 **AI Agents & Agentic AI**
+* 🧠 **Generative AI & LLM Applications**
+* 🔎 **RAG & Knowledge-Based Systems**
+* ⚙️ **AI Workflow & Business Automation**
+* 👁️ **Computer Vision & Deep Learning**
+* 🎥 **Multimodal & Video AI**
+* 🏥 **Medical Imaging AI**
+* 🌐 **AI SaaS & Full-Stack Applications**
+* 🔗 **API & AI Integrations**
+* 🚀 **AI Product Development & Deployment**
+
+**Let's build something valuable together.**
+
+### 📩 Business & General Inquiries
+
+**Email:** `contact@nexariza.com`
+**Website:** [nexariza.com](https://nexariza.com)
+**Contact:** [nexariza.com/contact](https://nexariza.com/contact)
+
+---
 
 <p align="center">
-  <i>Building intelligent systems. Solving real problems. Creating technology that matters.</i>
+  <a href="https://nexariza.com/contact">
+    <img src="https://img.shields.io/badge/🚀%20Start%20a%20Project-Nexariza%20AI-111111?style=for-the-badge" alt="Start a Project"/>
+  </a>
+  <a href="https://ahmadyasin.vercel.app">
+    <img src="https://img.shields.io/badge/👨‍💻%20View%20My%20Work-Ahmad%20Yasin-111111?style=for-the-badge" alt="View Portfolio"/>
+  </a>
 </p>
 
 <p align="center">
-  <strong>— Ahmad Yasin</strong>
+  <strong>🤝 Let's connect. Let's collaborate. Let's build the future with AI.</strong>
+</p>
+
+<p align="center">
+  <i>AI Engineering • Intelligent Automation • AI Employees • Computer Vision • Generative AI • Full-Stack Development</i>
 </p>
