@@ -1,0 +1,148 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#04071A"/>
+    </linearGradient>
+    <linearGradient id="cardA" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="borderA" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A84FF" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#5E5CE6" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="accentA" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A84FF"/>
+      <stop offset="100%" stop-color="#5E5CE6"/>
+    </linearGradient>
+    <linearGradient id="topS" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="tagBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A84FF" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#5E5CE6" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+
+  <!-- PROJECT CARD 1: Detectra AI -->
+  <rect x="10" y="10" width="372" height="260" rx="20" fill="url(#cardA)"/>
+  <rect x="10" y="10" width="372" height="1.5" rx="1" fill="url(#topS)"/>
+  <rect x="10" y="10" width="372" height="260" rx="20" fill="none" stroke="url(#borderA)" stroke-width="1"/>
+  <!-- Accent bar -->
+  <rect x="10" y="10" width="372" height="4" rx="2" fill="url(#accentA)" fill-opacity="0.8"/>
+  <!-- Content -->
+  <text x="36" y="60"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="22" font-weight="700" fill="#FFFFFF">Detectra AI</text>
+  <text x="36" y="84"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="12" font-weight="400" fill="#8A8A8E">Multimodal Video Intelligence Platform</text>
+  <!-- Divider -->
+  <line x1="36" y1="100" x2="350" y2="100" stroke="#FFFFFF" stroke-width="0.5" stroke-opacity="0.08"/>
+  <!-- Description -->
+  <text x="36" y="126"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="12.5" font-weight="300" fill="#AEAEB2">CrossModalTransformer fusing YOLOv8,</text>
+  <text x="36" y="146"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="12.5" font-weight="300" fill="#AEAEB2">ByteTrack, Whisper Large-v3 &amp; EasyOCR</text>
+  <text x="36" y="166"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="12.5" font-weight="300" fill="#AEAEB2">for complete video scene understanding.</text>
+  <!-- Tags -->
+  <rect x="36" y="192" width="80" height="22" rx="11" fill="url(#tagBg)"/>
+  <text x="76" y="207"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="10" font-weight="500" fill="#0A84FF" text-anchor="middle">PyTorch</text>
+  <rect x="124" y="192" width="80" height="22" rx="11" fill="url(#tagBg)"/>
+  <text x="164" y="207"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="10" font-weight="500" fill="#5E5CE6" text-anchor="middle">FastAPI</text>
+  <rect x="212" y="192" width="80" height="22" rx="11" fill="url(#tagBg)"/>
+  <text x="252" y="207"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="10" font-weight="500" fill="#0A84FF" text-anchor="middle">YOLOv8</text>
+  <!-- FYP badge -->
+  <text x="36" y="248"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="10.5" font-weight="400" fill="#0A84FF">Final Year Project</text>
+
+  <!-- PROJECT CARD 2: Prostate Cancer Detection -->
+  <rect x="414" y="10" width="372" height="260" rx="20" fill="url(#cardA)"/>
+  <rect x="414" y="10" width="372" height="1.5" rx="1" fill="url(#topS)"/>
+  <rect x="414" y="10" width="372" height="260" rx="20" fill="none" stroke="url(#borderA)" stroke-width="1"/>
+  <rect x="414" y="10" width="372" height="4" rx="2" fill="url(#accentA)" fill-opacity="0.8"/>
+  <text x="440" y="60"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="22" font-weight="700" fill="#FFFFFF">Medical AI Research</text>
+  <text x="440" y="84"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="12" font-weight="400" fill="#8A8A8E">Prostate Cancer Detection from MRI</text>
+  <line x1="440" y1="100" x2="754" y2="100" stroke="#FFFFFF" stroke-width="0.5" stroke-opacity="0.08"/>
+  <text x="440" y="126"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="12.5" font-weight="300" fill="#AEAEB2">Deep learning CNN pipeline achieving</text>
+  <text x="440" y="146"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="12.5" font-weight="300" fill="#AEAEB2">94.2% accuracy, 0.96 AUC-ROC.</text>
+  <text x="440" y="166"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="12.5" font-weight="300" fill="#AEAEB2">Peer-reviewed &amp; published.</text>
+  <rect x="440" y="192" width="80" height="22" rx="11" fill="url(#tagBg)"/>
+  <text x="480" y="207"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="10" font-weight="500" fill="#0A84FF" text-anchor="middle">Medical AI</text>
+  <rect x="528" y="192" width="60" height="22" rx="11" fill="url(#tagBg)"/>
+  <text x="558" y="207"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="10" font-weight="500" fill="#5E5CE6" text-anchor="middle">CNN</text>
+  <rect x="596" y="192" width="72" height="22" rx="11" fill="url(#tagBg)"/>
+  <text x="632" y="207"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="10" font-weight="500" fill="#0A84FF" text-anchor="middle">PyTorch</text>
+  <text x="440" y="248"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="10.5" font-weight="400" fill="#0A84FF">Peer-Reviewed Research</text>
+
+  <!-- PROJECT CARD 3: Face Recognition System -->
+  <rect x="818" y="10" width="372" height="260" rx="20" fill="url(#cardA)"/>
+  <rect x="818" y="10" width="372" height="1.5" rx="1" fill="url(#topS)"/>
+  <rect x="818" y="10" width="372" height="260" rx="20" fill="none" stroke="url(#borderA)" stroke-width="1"/>
+  <rect x="818" y="10" width="372" height="4" rx="2" fill="url(#accentA)" fill-opacity="0.8"/>
+  <text x="844" y="60"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="22" font-weight="700" fill="#FFFFFF">Access Control AI</text>
+  <text x="844" y="84"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="12" font-weight="400" fill="#8A8A8E">Face Recognition · Industrial Deployment</text>
+  <line x1="844" y1="100" x2="1158" y2="100" stroke="#FFFFFF" stroke-width="0.5" stroke-opacity="0.08"/>
+  <text x="844" y="126"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="12.5" font-weight="300" fill="#AEAEB2">Production biometric system on Q-BOX-E10</text>
+  <text x="844" y="146"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="12.5" font-weight="300" fill="#AEAEB2">using SCRFD + AdaFace + ONNX Runtime.</text>
+  <text x="844" y="166"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="12.5" font-weight="300" fill="#AEAEB2">Sub-second identification in production.</text>
+  <rect x="844" y="192" width="56" height="22" rx="11" fill="url(#tagBg)"/>
+  <text x="872" y="207"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="10" font-weight="500" fill="#0A84FF" text-anchor="middle">ONNX</text>
+  <rect x="908" y="192" width="72" height="22" rx="11" fill="url(#tagBg)"/>
+  <text x="944" y="207"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="10" font-weight="500" fill="#5E5CE6" text-anchor="middle">AdaFace</text>
+  <rect x="988" y="192" width="60" height="22" rx="11" fill="url(#tagBg)"/>
+  <text x="1018" y="207"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="10" font-weight="500" fill="#0A84FF" text-anchor="middle">SCRFD</text>
+  <text x="844" y="248"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="10.5" font-weight="400" fill="#0A84FF">Client Delivery · Production</text>
+</svg>
