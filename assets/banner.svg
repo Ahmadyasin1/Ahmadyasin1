@@ -1,161 +1,265 @@
-<svg width="1200" height="380" viewBox="0 0 1200 380" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <!-- Background gradient -->
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#000000"/>
-      <stop offset="100%" stop-color="#04071A"/>
-    </linearGradient>
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+<defs>
 
-    <!-- Ambient glow left -->
-    <radialGradient id="glow1" cx="20%" cy="55%" r="45%">
-      <stop offset="0%" stop-color="#0A84FF" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#0A84FF" stop-opacity="0"/>
-    </radialGradient>
+  <!-- ── BACKGROUND GRADIENTS ───────────────────────────────── -->
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#06060E"/>
+    <stop offset="100%" stop-color="#080818"/>
+  </linearGradient>
 
-    <!-- Ambient glow right -->
-    <radialGradient id="glow2" cx="82%" cy="38%" r="38%">
-      <stop offset="0%" stop-color="#5E5CE6" stop-opacity="0.14"/>
-      <stop offset="100%" stop-color="#5E5CE6" stop-opacity="0"/>
-    </radialGradient>
+  <radialGradient id="orb1" cx="22%" cy="58%" r="42%">
+    <stop offset="0%" stop-color="#0096C7" stop-opacity="0.22"/>
+    <stop offset="100%" stop-color="#0096C7" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="orb2" cx="82%" cy="30%" r="38%">
+    <stop offset="0%" stop-color="#5856D6" stop-opacity="0.18"/>
+    <stop offset="100%" stop-color="#5856D6" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="orb3" cx="50%" cy="102%" r="40%">
+    <stop offset="0%" stop-color="#023E8A" stop-opacity="0.20"/>
+    <stop offset="100%" stop-color="#023E8A" stop-opacity="0"/>
+  </radialGradient>
 
-    <!-- Soft bottom glow -->
-    <radialGradient id="glow3" cx="50%" cy="100%" r="50%">
-      <stop offset="0%" stop-color="#0A84FF" stop-opacity="0.08"/>
-      <stop offset="100%" stop-color="#0A84FF" stop-opacity="0"/>
-    </radialGradient>
+  <!-- ── CARD SURFACE (Neomorphic raised material) ──────────── -->
+  <linearGradient id="card-fill" x1="10%" y1="0%" x2="90%" y2="100%">
+    <stop offset="0%" stop-color="#0F0F1F"/>
+    <stop offset="100%" stop-color="#0B0B16"/>
+  </linearGradient>
 
-    <!-- Glass panel fill -->
-    <linearGradient id="glassFill" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.07"/>
-      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.03"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.01"/>
-    </linearGradient>
+  <!-- ── GLASS LAYER ─────────────────────────────────────────── -->
+  <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.065"/>
+    <stop offset="45%" stop-color="#FFFFFF" stop-opacity="0.028"/>
+    <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.008"/>
+  </linearGradient>
 
-    <!-- Glass border -->
-    <linearGradient id="glassBorder" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0A84FF" stop-opacity="0.7"/>
-      <stop offset="25%" stop-color="#FFFFFF" stop-opacity="0.25"/>
-      <stop offset="60%" stop-color="#5E5CE6" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#0A84FF" stop-opacity="0.05"/>
-    </linearGradient>
+  <linearGradient id="glass-edge" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#00B4D8" stop-opacity="0.70"/>
+    <stop offset="18%" stop-color="#FFFFFF" stop-opacity="0.24"/>
+    <stop offset="55%" stop-color="#5856D6" stop-opacity="0.22"/>
+    <stop offset="100%" stop-color="#00B4D8" stop-opacity="0.04"/>
+  </linearGradient>
 
-    <!-- Top shine highlight -->
-    <linearGradient id="topShine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="40%" stop-color="#FFFFFF" stop-opacity="0.14"/>
-      <stop offset="60%" stop-color="#FFFFFF" stop-opacity="0.14"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
-    </linearGradient>
+  <!-- ── SURFACE HIGHLIGHTS ──────────────────────────────────── -->
+  <linearGradient id="top-shine" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+    <stop offset="30%" stop-color="#FFFFFF" stop-opacity="0.20"/>
+    <stop offset="70%" stop-color="#FFFFFF" stop-opacity="0.20"/>
+    <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
 
-    <!-- Accent line gradient -->
-    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0A84FF" stop-opacity="0"/>
-      <stop offset="35%" stop-color="#0A84FF" stop-opacity="1"/>
-      <stop offset="65%" stop-color="#5E5CE6" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#5E5CE6" stop-opacity="0"/>
-    </linearGradient>
+  <linearGradient id="left-shine" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.10"/>
+    <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
 
-    <!-- Stats separator -->
-    <linearGradient id="statSep" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.12"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
-    </linearGradient>
+  <!-- ── WATER SHIMMER ACCENT LINE (animated) ─────────────────── -->
+  <linearGradient id="water-line" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#0096C7" stop-opacity="0"/>
+    <stop offset="25%" stop-color="#00B4D8">
+      <animate attributeName="stop-color" dur="4s" repeatCount="indefinite"
+        values="#00B4D8;#90E0EF;#5856D6;#00B4D8"/>
+    </stop>
+    <stop offset="50%" stop-color="#90E0EF">
+      <animate attributeName="stop-color" dur="4s" repeatCount="indefinite"
+        values="#90E0EF;#5856D6;#00B4D8;#90E0EF"/>
+    </stop>
+    <stop offset="75%" stop-color="#5856D6">
+      <animate attributeName="stop-color" dur="4s" repeatCount="indefinite"
+        values="#5856D6;#00B4D8;#90E0EF;#5856D6"/>
+    </stop>
+    <stop offset="100%" stop-color="#5856D6" stop-opacity="0"/>
+  </linearGradient>
 
-    <!-- Bottom edge glow bar -->
-    <linearGradient id="bottomBar" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0A84FF" stop-opacity="0"/>
-      <stop offset="30%" stop-color="#0A84FF" stop-opacity="0.6"/>
-      <stop offset="70%" stop-color="#5E5CE6" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#5E5CE6" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
+  <!-- ── STAT SEPARATOR ──────────────────────────────────────── -->
+  <linearGradient id="sep" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.10"/>
+    <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
 
-  <!-- ── Background ── -->
-  <rect width="1200" height="380" fill="url(#bg)"/>
-  <rect width="1200" height="380" fill="url(#glow1)"/>
-  <rect width="1200" height="380" fill="url(#glow2)"/>
-  <rect width="1200" height="380" fill="url(#glow3)"/>
+  <!-- ── BOTTOM WATER GLOW ─────────────────────────────────────── -->
+  <linearGradient id="btm-bar" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#0096C7" stop-opacity="0"/>
+    <stop offset="22%" stop-color="#0096C7" stop-opacity="0.65"/>
+    <stop offset="50%" stop-color="#90E0EF" stop-opacity="0.45"/>
+    <stop offset="78%" stop-color="#5856D6" stop-opacity="0.65"/>
+    <stop offset="100%" stop-color="#5856D6" stop-opacity="0"/>
+  </linearGradient>
 
-  <!-- ── Glass Card ── -->
-  <rect x="32" y="24" width="1136" height="332" rx="22" fill="url(#glassFill)"/>
-  <!-- Top shine -->
-  <rect x="32" y="24" width="1136" height="1.5" rx="1" fill="url(#topShine)"/>
-  <!-- Border -->
-  <rect x="32" y="24" width="1136" height="332" rx="22" fill="none" stroke="url(#glassBorder)" stroke-width="1"/>
+  <!-- ── CLIP ─────────────────────────────────────────────────── -->
+  <clipPath id="cc">
+    <rect x="36" y="26" width="1128" height="368" rx="26"/>
+  </clipPath>
 
-  <!-- ── Corner accent dots ── -->
-  <circle cx="52" cy="44" r="2.5" fill="#0A84FF" fill-opacity="0.5"/>
-  <circle cx="1148" cy="44" r="2.5" fill="#5E5CE6" fill-opacity="0.5"/>
-  <circle cx="52" cy="336" r="2.5" fill="#5E5CE6" fill-opacity="0.5"/>
-  <circle cx="1148" cy="336" r="2.5" fill="#0A84FF" fill-opacity="0.5"/>
+  <!-- ══ FILTERS ══════════════════════════════════════════════ -->
 
-  <!-- ── Name ── -->
-  <text x="600" y="140"
-    font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif"
-    font-size="64" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="-2">
-    Ahmad Yasin
-  </text>
+  <!-- Ambient orb blur -->
+  <filter id="orb-blur" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="50"/>
+  </filter>
 
-  <!-- ── Title ── -->
-  <text x="600" y="185"
-    font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif"
-    font-size="19" font-weight="300" fill="#8A8A8E" text-anchor="middle" letter-spacing="0.5">
-    AI Engineer · Founder &amp; CEO, Nexariza AI · Lahore, Pakistan
-  </text>
+  <!-- CARD FILTER: Neomorphism + Grain (Skeuomorphism) + Specular -->
+  <filter id="card-fx" x="-14%" y="-14%" width="128%" height="128%"
+    color-interpolation-filters="linearRGB">
 
-  <!-- ── Accent divider ── -->
-  <line x1="430" y1="212" x2="770" y2="212" stroke="url(#accentLine)" stroke-width="1"/>
+    <!-- NEOMORPHISM: dark shadow bottom-right -->
+    <feGaussianBlur in="SourceAlpha" stdDeviation="15" result="b1"/>
+    <feOffset in="b1" dx="14" dy="14" result="od"/>
+    <feFlood flood-color="#010104" flood-opacity="1" result="cd"/>
+    <feComposite in="cd" in2="od" operator="in" result="sd"/>
 
-  <!-- ── Stat: Left ── -->
-  <text x="300" y="264"
-    font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif"
-    font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="-1">
-    60+
-  </text>
-  <text x="300" y="292"
-    font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif"
-    font-size="12.5" font-weight="400" fill="#8A8A8E" text-anchor="middle" letter-spacing="0.4">
-    Production AI Systems
-  </text>
+    <!-- NEOMORPHISM: light shadow top-left -->
+    <feGaussianBlur in="SourceAlpha" stdDeviation="15" result="b2"/>
+    <feOffset in="b2" dx="-14" dy="-14" result="ol"/>
+    <feFlood flood-color="#161632" flood-opacity="0.68" result="cl"/>
+    <feComposite in="cl" in2="ol" operator="in" result="sl"/>
 
-  <!-- Separator left -->
-  <line x1="490" y1="248" x2="490" y2="302" stroke="url(#statSep)" stroke-width="1"/>
+    <!-- SKEUOMORPHISM: grain texture -->
+    <feTurbulence type="fractalNoise" baseFrequency="0.72 0.78" numOctaves="4"
+      stitchTiles="stitch" result="tn"/>
+    <feColorMatrix type="saturate" values="0" in="tn" result="gn"/>
+    <feComposite in="gn" in2="SourceAlpha" operator="in" result="cn"/>
+    <feComponentTransfer in="cn" result="dn">
+      <feFuncA type="linear" slope="0.042"/>
+    </feComponentTransfer>
 
-  <!-- ── Stat: Center ── -->
-  <text x="600" y="264"
-    font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif"
-    font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="-1">
-    4+
-  </text>
-  <text x="600" y="292"
-    font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif"
-    font-size="12.5" font-weight="400" fill="#8A8A8E" text-anchor="middle" letter-spacing="0.4">
-    Years Engineering
-  </text>
+    <!-- SKEUOMORPHISM: specular point-light (top-left 3D depth) -->
+    <feGaussianBlur in="SourceAlpha" stdDeviation="2.5" result="sf"/>
+    <feSpecularLighting in="sf" surfaceScale="4" specularConstant="0.6"
+      specularExponent="28" lighting-color="#FFFFFF" result="sp">
+      <fePointLight x="200" y="55" z="220"/>
+    </feSpecularLighting>
+    <feComposite in="sp" in2="SourceAlpha" operator="in" result="spc"/>
+    <feComponentTransfer in="spc" result="spd">
+      <feFuncA type="linear" slope="0.11"/>
+    </feComponentTransfer>
 
-  <!-- Separator right -->
-  <line x1="710" y1="248" x2="710" y2="302" stroke="url(#statSep)" stroke-width="1"/>
+    <!-- MERGE: shadows → source → grain → specular -->
+    <feMerge>
+      <feMergeNode in="sd"/>
+      <feMergeNode in="sl"/>
+      <feMergeNode in="SourceGraphic"/>
+      <feMergeNode in="dn"/>
+      <feMergeNode in="spd"/>
+    </feMerge>
+  </filter>
 
-  <!-- ── Stat: Right ── -->
-  <text x="900" y="264"
-    font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif"
-    font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="-1">
-    #1
-  </text>
-  <text x="900" y="292"
-    font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif"
-    font-size="12.5" font-weight="400" fill="#8A8A8E" text-anchor="middle" letter-spacing="0.4">
-    National AI Hackathon 2024
-  </text>
+  <!-- WATER CAUSTIC (animated background turbulence) -->
+  <filter id="caustic" x="-20%" y="-20%" width="140%" height="140%"
+    color-interpolation-filters="sRGB">
+    <feTurbulence type="turbulence" baseFrequency="0.028 0.055" numOctaves="3" result="turb">
+      <animate attributeName="baseFrequency" dur="8s" repeatCount="indefinite"
+        values="0.028 0.055;0.035 0.065;0.028 0.055"/>
+    </feTurbulence>
+    <feColorMatrix in="turb" type="matrix"
+      values="0 0 0 0 0.00
+              0 0 0 0 0.18
+              0 0 0 0 0.48
+              0 0 0 0.30 0"/>
+  </filter>
 
-  <!-- ── Bottom glow bar ── -->
-  <rect x="32" y="352" width="1136" height="2" rx="1" fill="url(#bottomBar)" fill-opacity="0.7"/>
+  <!-- Soft glow for accent elements -->
+  <filter id="glow" x="-50%" y="-300%" width="200%" height="700%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
 
-  <!-- ── Watermark ── -->
-  <text x="600" y="370"
-    font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif"
-    font-size="10.5" font-weight="300" fill="#FFFFFF" fill-opacity="0.18" text-anchor="middle" letter-spacing="2">
-    NEXARIZA AI
-  </text>
+</defs>
+
+<!-- ── BACKGROUND ──────────────────────────────────────────────── -->
+<rect width="1200" height="420" fill="url(#bg)"/>
+<rect width="1200" height="420" fill="url(#orb1)" filter="url(#orb-blur)"/>
+<rect width="1200" height="420" fill="url(#orb2)" filter="url(#orb-blur)"/>
+<rect width="1200" height="420" fill="url(#orb3)" filter="url(#orb-blur)"/>
+
+<!-- ── WATER CAUSTIC ───────────────────────────────────────────── -->
+<rect width="1200" height="420" opacity="0.22" filter="url(#caustic)"/>
+
+<!-- ── NEOMORPHIC CARD (Neomorphism + Grain + Specular) ─────────── -->
+<rect x="36" y="26" width="1128" height="368" rx="26"
+  fill="url(#card-fill)" filter="url(#card-fx)"/>
+
+<!-- ── GLASS OVERLAY (Glassmorphism) ────────────────────────────── -->
+<rect x="36" y="26" width="1128" height="368" rx="26"
+  fill="url(#glass)" stroke="url(#glass-edge)" stroke-width="1"/>
+
+<!-- Glass top shine -->
+<rect x="36" y="26" width="1128" height="2.5" rx="1" fill="url(#top-shine)"/>
+<!-- Glass left edge shine -->
+<rect x="36" y="26" width="2" height="368" rx="1" fill="url(#left-shine)"/>
+
+<!-- ── BOTTOM WATER GLOW (clipped to card) ───────────────────────── -->
+<rect x="36" y="376" width="1128" height="18"
+  fill="url(#btm-bar)" clip-path="url(#cc)" filter="url(#glow)" opacity="0.88"/>
+
+<!-- ── CORNER ACCENT DOTS ────────────────────────────────────────── -->
+<circle cx="58" cy="48" r="2.5" fill="#00B4D8" fill-opacity="0.56"/>
+<circle cx="1142" cy="48" r="2.5" fill="#5856D6" fill-opacity="0.56"/>
+<circle cx="58" cy="372" r="2.5" fill="#5856D6" fill-opacity="0.56"/>
+<circle cx="1142" cy="372" r="2.5" fill="#00B4D8" fill-opacity="0.56"/>
+
+<!-- ── CONTENT ─────────────────────────────────────────────────── -->
+
+<!-- Nexariza micro label -->
+<text x="600" y="74" text-anchor="middle"
+  font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+  font-size="10.5" font-weight="400" fill="#FFFFFF" fill-opacity="0.20" letter-spacing="4.5">
+  NEXARIZA AI
+</text>
+
+<!-- Name -->
+<text x="600" y="162" text-anchor="middle"
+  font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+  font-size="66" font-weight="700" fill="#FFFFFF" letter-spacing="-2">
+  Ahmad Yasin
+</text>
+
+<!-- Title -->
+<text x="600" y="197" text-anchor="middle"
+  font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+  font-size="17.5" font-weight="300" fill="#8E8E93" letter-spacing="0.3">
+  AI Engineer &#183; Founder &amp; CEO, Nexariza AI &#183; Lahore, Pakistan
+</text>
+
+<!-- Animated water divider line -->
+<line x1="386" y1="224" x2="814" y2="224"
+  stroke="url(#water-line)" stroke-width="1.5" filter="url(#glow)"/>
+
+<!-- Stats -->
+<text x="308" y="274" text-anchor="middle"
+  font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+  font-size="40" font-weight="700" fill="#FFFFFF" letter-spacing="-1">60+</text>
+<text x="308" y="300" text-anchor="middle"
+  font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+  font-size="11.5" font-weight="400" fill="#8E8E93" letter-spacing="0.5">
+  Production AI Systems</text>
+
+<line x1="466" y1="256" x2="466" y2="308" stroke="url(#sep)" stroke-width="1"/>
+
+<text x="600" y="274" text-anchor="middle"
+  font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+  font-size="40" font-weight="700" fill="#FFFFFF" letter-spacing="-1">4+</text>
+<text x="600" y="300" text-anchor="middle"
+  font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+  font-size="11.5" font-weight="400" fill="#8E8E93" letter-spacing="0.5">
+  Years Engineering</text>
+
+<line x1="734" y1="256" x2="734" y2="308" stroke="url(#sep)" stroke-width="1"/>
+
+<text x="882" y="274" text-anchor="middle"
+  font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+  font-size="40" font-weight="700" fill="#FFFFFF" letter-spacing="-1">#1</text>
+<text x="882" y="300" text-anchor="middle"
+  font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+  font-size="11.5" font-weight="400" fill="#8E8E93" letter-spacing="0.5">
+  National AI Hackathon 2024</text>
+
+<!-- Watermark -->
+<text x="600" y="412" text-anchor="middle"
+  font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+  font-size="10" font-weight="300" fill="#FFFFFF" fill-opacity="0.15" letter-spacing="2">
+  nexariza.com
+</text>
+
 </svg>

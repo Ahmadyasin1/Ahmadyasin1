@@ -1,88 +1,217 @@
-<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#000000"/>
-      <stop offset="100%" stop-color="#04071A"/>
-    </linearGradient>
-    <linearGradient id="cardFill" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.06"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.02"/>
-    </linearGradient>
-    <linearGradient id="cardBorder" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0A84FF" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#5E5CE6" stop-opacity="0.15"/>
-    </linearGradient>
-    <linearGradient id="topShine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.1"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="iconGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0A84FF"/>
-      <stop offset="100%" stop-color="#5E5CE6"/>
-    </linearGradient>
-  </defs>
+<svg width="1200" height="236" viewBox="0 0 1200 236" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <!-- PAGE BG -->
+  <linearGradient id="pg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#06060E"/><stop offset="100%" stop-color="#080818"/>
+  </linearGradient>
 
-  <rect width="1200" height="220" fill="url(#bg)"/>
+  <!-- CARD SURFACE -->
+  <linearGradient id="cs" x1="10%" y1="0%" x2="90%" y2="100%">
+    <stop offset="0%" stop-color="#0F0F1F"/><stop offset="100%" stop-color="#0B0B16"/>
+  </linearGradient>
 
-  <!-- Card helper macro (manual repeat) -->
-  <!-- CARD 1: Generative AI -->
-  <rect x="10" y="10" width="182" height="200" rx="18" fill="url(#cardFill)"/>
-  <rect x="10" y="10" width="182" height="1.5" rx="1" fill="url(#topShine)"/>
-  <rect x="10" y="10" width="182" height="200" rx="18" fill="none" stroke="url(#cardBorder)" stroke-width="1"/>
-  <text x="101" y="75" font-family="-apple-system,Helvetica,Arial,sans-serif" font-size="30" text-anchor="middle">🤖</text>
-  <text x="101" y="115" font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
-    font-size="14" font-weight="600" fill="#FFFFFF" text-anchor="middle">Generative AI</text>
-  <text x="101" y="136" font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
-    font-size="11" font-weight="300" fill="#8A8A8E" text-anchor="middle">LLM · RAG · Agents</text>
+  <!-- GLASS FILL -->
+  <linearGradient id="gf" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%"   stop-color="#FFFFFF" stop-opacity="0.068"/>
+    <stop offset="45%"  stop-color="#FFFFFF" stop-opacity="0.030"/>
+    <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.008"/>
+  </linearGradient>
 
-  <!-- CARD 2: AI Agents -->
-  <rect x="206" y="10" width="182" height="200" rx="18" fill="url(#cardFill)"/>
-  <rect x="206" y="10" width="182" height="1.5" rx="1" fill="url(#topShine)"/>
-  <rect x="206" y="10" width="182" height="200" rx="18" fill="none" stroke="url(#cardBorder)" stroke-width="1"/>
-  <text x="297" y="75" font-family="-apple-system,Helvetica,Arial,sans-serif" font-size="30" text-anchor="middle">🧩</text>
-  <text x="297" y="115" font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
-    font-size="14" font-weight="600" fill="#FFFFFF" text-anchor="middle">AI Agents</text>
-  <text x="297" y="136" font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
-    font-size="11" font-weight="300" fill="#8A8A8E" text-anchor="middle">LangGraph · Multi-Agent</text>
+  <!-- GLASS EDGE -->
+  <linearGradient id="ge" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%"   stop-color="#00B4D8" stop-opacity="0.70"/>
+    <stop offset="18%"  stop-color="#FFFFFF"  stop-opacity="0.24"/>
+    <stop offset="55%"  stop-color="#5856D6"  stop-opacity="0.22"/>
+    <stop offset="100%" stop-color="#00B4D8"  stop-opacity="0.04"/>
+  </linearGradient>
 
-  <!-- CARD 3: Computer Vision -->
-  <rect x="402" y="10" width="182" height="200" rx="18" fill="url(#cardFill)"/>
-  <rect x="402" y="10" width="182" height="1.5" rx="1" fill="url(#topShine)"/>
-  <rect x="402" y="10" width="182" height="200" rx="18" fill="none" stroke="url(#cardBorder)" stroke-width="1"/>
-  <text x="493" y="75" font-family="-apple-system,Helvetica,Arial,sans-serif" font-size="30" text-anchor="middle">👁️</text>
-  <text x="493" y="115" font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
-    font-size="14" font-weight="600" fill="#FFFFFF" text-anchor="middle">Computer Vision</text>
-  <text x="493" y="136" font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
-    font-size="11" font-weight="300" fill="#8A8A8E" text-anchor="middle">YOLO · Tracking · OCR</text>
+  <!-- TOP SHINE -->
+  <linearGradient id="ts" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%"   stop-color="#FFFFFF" stop-opacity="0"/>
+    <stop offset="32%"  stop-color="#FFFFFF" stop-opacity="0.20"/>
+    <stop offset="68%"  stop-color="#FFFFFF" stop-opacity="0.20"/>
+    <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
 
-  <!-- CARD 4: Multimodal AI -->
-  <rect x="598" y="10" width="182" height="200" rx="18" fill="url(#cardFill)"/>
-  <rect x="598" y="10" width="182" height="1.5" rx="1" fill="url(#topShine)"/>
-  <rect x="598" y="10" width="182" height="200" rx="18" fill="none" stroke="url(#cardBorder)" stroke-width="1"/>
-  <text x="689" y="75" font-family="-apple-system,Helvetica,Arial,sans-serif" font-size="30" text-anchor="middle">🎥</text>
-  <text x="689" y="115" font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
-    font-size="14" font-weight="600" fill="#FFFFFF" text-anchor="middle">Multimodal AI</text>
-  <text x="689" y="136" font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
-    font-size="11" font-weight="300" fill="#8A8A8E" text-anchor="middle">Video · Vision-Language</text>
+  <!-- WATER ACCENT BAR (animated) -->
+  <linearGradient id="wb" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%"   stop-color="#0096C7" stop-opacity="0"/>
+    <stop offset="30%"  stop-color="#00B4D8">
+      <animate attributeName="stop-color" dur="4s" repeatCount="indefinite"
+        values="#00B4D8;#90E0EF;#5856D6;#00B4D8"/>
+    </stop>
+    <stop offset="70%"  stop-color="#5856D6">
+      <animate attributeName="stop-color" dur="4s" repeatCount="indefinite"
+        values="#5856D6;#00B4D8;#90E0EF;#5856D6"/>
+    </stop>
+    <stop offset="100%" stop-color="#5856D6" stop-opacity="0"/>
+  </linearGradient>
 
-  <!-- CARD 5: Full-Stack -->
-  <rect x="794" y="10" width="182" height="200" rx="18" fill="url(#cardFill)"/>
-  <rect x="794" y="10" width="182" height="1.5" rx="1" fill="url(#topShine)"/>
-  <rect x="794" y="10" width="182" height="200" rx="18" fill="none" stroke="url(#cardBorder)" stroke-width="1"/>
-  <text x="885" y="75" font-family="-apple-system,Helvetica,Arial,sans-serif" font-size="30" text-anchor="middle">🌐</text>
-  <text x="885" y="115" font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
-    font-size="14" font-weight="600" fill="#FFFFFF" text-anchor="middle">Full-Stack AI</text>
-  <text x="885" y="136" font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
-    font-size="11" font-weight="300" fill="#8A8A8E" text-anchor="middle">FastAPI · React · Docker</text>
+  <!-- ICON CIRCLE GRADIENT -->
+  <radialGradient id="ig" cx="35%" cy="30%" r="65%">
+    <stop offset="0%"   stop-color="#00B4D8"/>
+    <stop offset="100%" stop-color="#5856D6"/>
+  </radialGradient>
 
-  <!-- CARD 6: Automation -->
-  <rect x="990" y="10" width="200" height="200" rx="18" fill="url(#cardFill)"/>
-  <rect x="990" y="10" width="200" height="1.5" rx="1" fill="url(#topShine)"/>
-  <rect x="990" y="10" width="200" height="200" rx="18" fill="none" stroke="url(#cardBorder)" stroke-width="1"/>
-  <text x="1090" y="75" font-family="-apple-system,Helvetica,Arial,sans-serif" font-size="30" text-anchor="middle">⚙️</text>
-  <text x="1090" y="115" font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
-    font-size="14" font-weight="600" fill="#FFFFFF" text-anchor="middle">Automation</text>
-  <text x="1090" y="136" font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
-    font-size="11" font-weight="300" fill="#8A8A8E" text-anchor="middle">n8n · VAPI · Workflows</text>
+  <!-- ── FILTERS ── -->
+
+  <!-- Ambient bg blur -->
+  <filter id="bg-blur" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="50"/>
+  </filter>
+
+  <!-- CARD FILTER: Neomorphism + Grain + Specular -->
+  <filter id="cf" x="-15%" y="-15%" width="130%" height="130%"
+    color-interpolation-filters="linearRGB">
+    <!-- Neomorphic dark shadow -->
+    <feGaussianBlur in="SourceAlpha" stdDeviation="10" result="b1"/>
+    <feOffset in="b1" dx="9" dy="9" result="od"/>
+    <feFlood flood-color="#010104" flood-opacity="1" result="cd"/>
+    <feComposite in="cd" in2="od" operator="in" result="sd"/>
+    <!-- Neomorphic light shadow -->
+    <feGaussianBlur in="SourceAlpha" stdDeviation="10" result="b2"/>
+    <feOffset in="b2" dx="-9" dy="-9" result="ol"/>
+    <feFlood flood-color="#161632" flood-opacity="0.62" result="cl"/>
+    <feComposite in="cl" in2="ol" operator="in" result="sl"/>
+    <!-- Grain texture -->
+    <feTurbulence type="fractalNoise" baseFrequency="0.72" numOctaves="4"
+      stitchTiles="stitch" result="tn"/>
+    <feColorMatrix type="saturate" values="0" in="tn" result="gn"/>
+    <feComposite in="gn" in2="SourceAlpha" operator="in" result="cn"/>
+    <feComponentTransfer in="cn" result="dn">
+      <feFuncA type="linear" slope="0.040"/>
+    </feComponentTransfer>
+    <!-- Specular highlight -->
+    <feGaussianBlur in="SourceAlpha" stdDeviation="2" result="sf"/>
+    <feSpecularLighting in="sf" surfaceScale="3" specularConstant="0.5"
+      specularExponent="22" lighting-color="#FFFFFF" result="sp">
+      <fePointLight x="60" y="30" z="160"/>
+    </feSpecularLighting>
+    <feComposite in="sp" in2="SourceAlpha" operator="in" result="spc"/>
+    <feComponentTransfer in="spc" result="spd">
+      <feFuncA type="linear" slope="0.10"/>
+    </feComponentTransfer>
+    <feMerge>
+      <feMergeNode in="sd"/>
+      <feMergeNode in="sl"/>
+      <feMergeNode in="SourceGraphic"/>
+      <feMergeNode in="dn"/>
+      <feMergeNode in="spd"/>
+    </feMerge>
+  </filter>
+
+  <!-- Icon circle glow -->
+  <filter id="icn-glow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<!-- BG -->
+<rect width="1200" height="236" fill="url(#pg)"/>
+<!-- Ambient orbs -->
+<ellipse cx="200" cy="120" rx="220" ry="180" fill="#0096C7" fill-opacity="0.08" filter="url(#bg-blur)"/>
+<ellipse cx="1000" cy="120" rx="220" ry="180" fill="#5856D6" fill-opacity="0.06" filter="url(#bg-blur)"/>
+
+  <!-- Generative AI -->
+  <rect x="12" y="12" width="189" height="212" rx="18"
+    fill="url(#cs)" filter="url(#cf)"/>
+  <rect x="12" y="12" width="189" height="212" rx="18"
+    fill="url(#gf)" stroke="url(#ge)" stroke-width="1"/>
+  <rect x="12" y="12" width="189" height="2.5" rx="1" fill="url(#ts)"/>
+  <rect x="12" y="12" width="189" height="3.5" rx="1.5" fill="url(#wb)"/>
+  <circle cx="107" cy="78" r="24" fill="url(#ig)" filter="url(#icn-glow)" opacity="0.92"/>
+  <text x="107" y="83" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="12" font-weight="700" fill="#FFFFFF" letter-spacing="0.5">LLM</text>
+  <text x="107" y="130" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13" font-weight="600" fill="#FFFFFF" letter-spacing="-0.2">Generative AI</text>
+  <text x="107" y="154" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="10.5" font-weight="300" fill="#8E8E93" letter-spacing="0.2">LLM · RAG · Agents</text>
+  <!-- AI Agents -->
+  <rect x="209" y="12" width="189" height="212" rx="18"
+    fill="url(#cs)" filter="url(#cf)"/>
+  <rect x="209" y="12" width="189" height="212" rx="18"
+    fill="url(#gf)" stroke="url(#ge)" stroke-width="1"/>
+  <rect x="209" y="12" width="189" height="2.5" rx="1" fill="url(#ts)"/>
+  <rect x="209" y="12" width="189" height="3.5" rx="1.5" fill="url(#wb)"/>
+  <circle cx="304" cy="78" r="24" fill="url(#ig)" filter="url(#icn-glow)" opacity="0.92"/>
+  <text x="304" y="83" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="12" font-weight="700" fill="#FFFFFF" letter-spacing="0.5">AGT</text>
+  <text x="304" y="130" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13" font-weight="600" fill="#FFFFFF" letter-spacing="-0.2">AI Agents</text>
+  <text x="304" y="154" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="10.5" font-weight="300" fill="#8E8E93" letter-spacing="0.2">LangGraph · Multi-Agent</text>
+  <!-- Computer Vision -->
+  <rect x="406" y="12" width="189" height="212" rx="18"
+    fill="url(#cs)" filter="url(#cf)"/>
+  <rect x="406" y="12" width="189" height="212" rx="18"
+    fill="url(#gf)" stroke="url(#ge)" stroke-width="1"/>
+  <rect x="406" y="12" width="189" height="2.5" rx="1" fill="url(#ts)"/>
+  <rect x="406" y="12" width="189" height="3.5" rx="1.5" fill="url(#wb)"/>
+  <circle cx="501" cy="78" r="24" fill="url(#ig)" filter="url(#icn-glow)" opacity="0.92"/>
+  <text x="501" y="83" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="12" font-weight="700" fill="#FFFFFF" letter-spacing="0.5">CV</text>
+  <text x="501" y="130" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13" font-weight="600" fill="#FFFFFF" letter-spacing="-0.2">Computer Vision</text>
+  <text x="501" y="154" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="10.5" font-weight="300" fill="#8E8E93" letter-spacing="0.2">YOLO · Track · OCR</text>
+  <!-- Multimodal AI -->
+  <rect x="603" y="12" width="189" height="212" rx="18"
+    fill="url(#cs)" filter="url(#cf)"/>
+  <rect x="603" y="12" width="189" height="212" rx="18"
+    fill="url(#gf)" stroke="url(#ge)" stroke-width="1"/>
+  <rect x="603" y="12" width="189" height="2.5" rx="1" fill="url(#ts)"/>
+  <rect x="603" y="12" width="189" height="3.5" rx="1.5" fill="url(#wb)"/>
+  <circle cx="698" cy="78" r="24" fill="url(#ig)" filter="url(#icn-glow)" opacity="0.92"/>
+  <text x="698" y="83" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="12" font-weight="700" fill="#FFFFFF" letter-spacing="0.5">MM</text>
+  <text x="698" y="130" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13" font-weight="600" fill="#FFFFFF" letter-spacing="-0.2">Multimodal AI</text>
+  <text x="698" y="154" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="10.5" font-weight="300" fill="#8E8E93" letter-spacing="0.2">Video · Audio · Fusion</text>
+  <!-- Full-Stack AI -->
+  <rect x="800" y="12" width="189" height="212" rx="18"
+    fill="url(#cs)" filter="url(#cf)"/>
+  <rect x="800" y="12" width="189" height="212" rx="18"
+    fill="url(#gf)" stroke="url(#ge)" stroke-width="1"/>
+  <rect x="800" y="12" width="189" height="2.5" rx="1" fill="url(#ts)"/>
+  <rect x="800" y="12" width="189" height="3.5" rx="1.5" fill="url(#wb)"/>
+  <circle cx="895" cy="78" r="24" fill="url(#ig)" filter="url(#icn-glow)" opacity="0.92"/>
+  <text x="895" y="83" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="12" font-weight="700" fill="#FFFFFF" letter-spacing="0.5">API</text>
+  <text x="895" y="130" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13" font-weight="600" fill="#FFFFFF" letter-spacing="-0.2">Full-Stack AI</text>
+  <text x="895" y="154" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="10.5" font-weight="300" fill="#8E8E93" letter-spacing="0.2">FastAPI · React · Cloud</text>
+  <!-- Automation -->
+  <rect x="997" y="12" width="189" height="212" rx="18"
+    fill="url(#cs)" filter="url(#cf)"/>
+  <rect x="997" y="12" width="189" height="212" rx="18"
+    fill="url(#gf)" stroke="url(#ge)" stroke-width="1"/>
+  <rect x="997" y="12" width="189" height="2.5" rx="1" fill="url(#ts)"/>
+  <rect x="997" y="12" width="189" height="3.5" rx="1.5" fill="url(#wb)"/>
+  <circle cx="1092" cy="78" r="24" fill="url(#ig)" filter="url(#icn-glow)" opacity="0.92"/>
+  <text x="1092" y="83" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="12" font-weight="700" fill="#FFFFFF" letter-spacing="0.5">AUT</text>
+  <text x="1092" y="130" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13" font-weight="600" fill="#FFFFFF" letter-spacing="-0.2">Automation</text>
+  <text x="1092" y="154" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="10.5" font-weight="300" fill="#8E8E93" letter-spacing="0.2">n8n · VAPI · Workflows</text>
 </svg>

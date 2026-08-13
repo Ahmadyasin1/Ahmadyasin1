@@ -1,12 +1,32 @@
-<svg width="1200" height="2" viewBox="0 0 1200 2" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0A84FF" stop-opacity="0"/>
-      <stop offset="25%" stop-color="#0A84FF" stop-opacity="0.5"/>
-      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.2"/>
-      <stop offset="75%" stop-color="#5E5CE6" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#5E5CE6" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="2" fill="url(#divGrad)"/>
+<svg width="1200" height="10" viewBox="0 0 1200 10" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="wg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+    <stop offset="0%"   stop-color="#0096C7" stop-opacity="0"/>
+    <stop offset="20%"  stop-color="#00B4D8">
+      <animate attributeName="stop-color" dur="4s" repeatCount="indefinite"
+        values="#00B4D8;#90E0EF;#5856D6;#00B4D8"/>
+    </stop>
+    <stop offset="50%"  stop-color="#90E0EF">
+      <animate attributeName="stop-color" dur="4s" repeatCount="indefinite"
+        values="#90E0EF;#5856D6;#00B4D8;#90E0EF"/>
+    </stop>
+    <stop offset="80%"  stop-color="#5856D6">
+      <animate attributeName="stop-color" dur="4s" repeatCount="indefinite"
+        values="#5856D6;#00B4D8;#90E0EF;#5856D6"/>
+    </stop>
+    <stop offset="100%" stop-color="#5856D6" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="glow" x="-2%" y="-300%" width="104%" height="700%">
+    <feGaussianBlur stdDeviation="1.8" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<!-- Animated wave path -->
+<path fill="none" stroke="url(#wg)" stroke-width="1.5" filter="url(#glow)"
+  d="M0,5 Q50,2 100,5 Q150,8 200,5 Q250,2 300,5 Q350,8 400,5 Q450,2 500,5 Q550,8 600,5 Q650,2 700,5 Q750,8 800,5 Q850,2 900,5 Q950,8 1000,5 Q1050,2 1100,5 Q1150,8 1200,5">
+  <animate attributeName="d" dur="4s" repeatCount="indefinite"
+    values="M0,5 Q50,2 100,5 Q150,8 200,5 Q250,2 300,5 Q350,8 400,5 Q450,2 500,5 Q550,8 600,5 Q650,2 700,5 Q750,8 800,5 Q850,2 900,5 Q950,8 1000,5 Q1050,2 1100,5 Q1150,8 1200,5;
+            M0,5 Q50,8 100,5 Q150,2 200,5 Q250,8 300,5 Q350,2 400,5 Q450,8 500,5 Q550,2 600,5 Q650,8 700,5 Q750,2 800,5 Q850,8 900,5 Q950,2 1000,5 Q1050,8 1100,5 Q1150,2 1200,5;
+            M0,5 Q50,2 100,5 Q150,8 200,5 Q250,2 300,5 Q350,8 400,5 Q450,2 500,5 Q550,8 600,5 Q650,2 700,5 Q750,8 800,5 Q850,2 900,5 Q950,8 1000,5 Q1050,2 1100,5 Q1150,8 1200,5"/>
+</path>
 </svg>
