@@ -1,198 +1,67 @@
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  AHMAD YASIN · NEXARIZA AI                               -->
-<!--  Neomorphism · Glassmorphism · Skeuomorphism · Water      -->
-<!--  Install: push assets/ folder + this README.md           -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<!-- ┌─ HERO BANNER ────────────────────────────────────────────┐ -->
 <div align="center">
-<img src="./assets/banner.svg" width="100%" alt="Ahmad Yasin — Nexariza AI"/>
+<img src="./assets/banner.svg" width="100%" alt="Ahmad Yasin, Founder and CEO of Nexariza AI"/>
 </div>
-<!-- └──────────────────────────────────────────────────────────┘ -->
 
-<br/>
-
-<!-- ┌─ STATUS ─────────────────────────────────────────────────┐ -->
 <div align="center">
 
-![Views](https://komarev.com/ghpvc/?username=Ahmadyasin1&color=0096C7&style=flat-square&label=profile+views)
-&nbsp;·&nbsp;
-[![Followers](https://img.shields.io/github/followers/Ahmadyasin1?color=5856D6&style=flat-square&logo=github&label=followers&logoColor=white)](https://github.com/Ahmadyasin1)
-&nbsp;·&nbsp;
-[![Available](https://img.shields.io/badge/available%20for%20AI%20projects%20→-0096C7?style=flat-square)](https://nexariza.com/contact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmadyasin.vercel.app-0B1B26?style=flat-square&logo=vercel&logoColor=D9B26B&labelColor=0B1B26)](https://ahmadyasin.vercel.app)
+[![Nexariza AI](https://img.shields.io/badge/Nexariza%20AI-nexariza.com-0B1B26?style=flat-square&logo=googlechrome&logoColor=5CE1E6&labelColor=0B1B26)](https://nexariza.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmadyasin1-0B1B26?style=flat-square&logo=linkedin&logoColor=D9B26B&labelColor=0B1B26)](https://www.linkedin.com/in/ahmadyasin1)
+[![Upwork](https://img.shields.io/badge/Upwork-hire%20me-0B1B26?style=flat-square&logo=upwork&logoColor=5CE1E6&labelColor=0B1B26)](https://www.upwork.com/freelancers/~013900a3c3552a40a6)
+[![Email](https://img.shields.io/badge/contact@nexariza.com-0B1B26?style=flat-square&logo=gmail&logoColor=D9B26B&labelColor=0B1B26)](mailto:contact@nexariza.com)
 
 </div>
-<!-- └──────────────────────────────────────────────────────────┘ -->
-
-<br/>
-
-<!-- ┌─ PROFILE ────────────────────────────────────────────────┐ -->
-
-<img align="right" width="195" src="https://nexariza.com/Ahmad%20Yasin.png" alt="Ahmad Yasin"/>
-
-## Ahmad Yasin
-
-**Founder & CEO — [Nexariza AI](https://nexariza.com)**&emsp;AI Engineer · AI Systems Architect
-
-<sub>I build production AI systems that create measurable business outcomes —<br/>from model architecture and inference pipeline to deployed, scaled product.</sub>
-
-<br/>
 
 <img src="./assets/credentials.svg" width="100%" alt="Credentials"/>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ahmadyasin.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadyasin1)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013900a3c3552a40a6)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/dDmlq9G)
-[![Email](https://img.shields.io/badge/contact@nexariza.com-0096C7?style=flat-square)](mailto:contact@nexariza.com)
+<table>
+<tr>
+<td valign="middle">
 
-<br clear="right"/>
+### The short version
 
-<!-- ┌─ DIVIDER ────────────────────────────────────────────────┐ -->
-<img src="./assets/divider.svg" width="100%"/>
-<!-- └──────────────────────────────────────────────────────────┘ -->
+I run **[Nexariza AI](https://nexariza.com)**, an AI engineering company in Lahore that builds production systems for clients in the US, Europe, the UAE and the wider MENA region.
 
-<br/>
+I have been shipping AI for clients since 2022. Across 60+ deployments, the pattern is the same: I own the whole path, from model architecture and inference pipeline to the deployed, monitored product.
 
-<!-- ┌─ NEXARIZA AI ────────────────────────────────────────────┐ -->
+I graduated in Artificial Intelligence with a 3.81 CGPA, won the National AI Hackathon 2024 in Computer Vision, and published peer-reviewed research in medical AI.
 
-<img align="left" width="62" src="https://nexariza.com/Nexariza%20logo.jpg" alt="Nexariza AI" style="border-radius:14px; margin-right:20px;"/>
+</td>
+<td width="220" valign="middle" align="center">
+<img src="https://nexariza.com/Ahmad%20Yasin.png" width="200" alt="Ahmad Yasin"/>
+</td>
+</tr>
+</table>
 
-**Nexariza AI** — AI engineering company building intelligent systems, AI employees, and automation<br/>
-platforms for organizations across **North America · Europe · GCC · Asia-Pacific**.
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-🌐 [nexariza.com](https://nexariza.com)&emsp;·&emsp;📩 [contact@nexariza.com](mailto:contact@nexariza.com)&emsp;·&emsp;💬 [+92 370 7348001](https://wa.me/923707348001)
+<img src="./assets/expertise.svg" width="100%" alt="Areas of expertise"/>
 
-<br clear="left"/>
+<img src="./assets/stack.svg" width="100%" alt="Technology stack"/>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<img src="./assets/divider.svg" width="100%"/>
-<!-- └──────────────────────────────────────────────────────────┘ -->
+<img src="./assets/projects.svg" width="100%" alt="Selected projects"/>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<!-- ┌─ EXPERTISE ──────────────────────────────────────────────┐ -->
 <div align="center">
 
-<img src="./assets/expertise.svg" width="100%" alt="Areas of Expertise"/>
-
-</div>
-
-<br/>
-<img src="./assets/divider.svg" width="100%"/>
-<!-- └──────────────────────────────────────────────────────────┘ -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmadyasin1&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_color=1E3340&border_radius=18&bg_color=07131B&title_color=D9B26B&text_color=C9D6DC&icon_color=5CE1E6&ring_color=D9B26B" width="48%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadyasin1&layout=compact&langs_count=8&hide_border=false&border_color=1E3340&border_radius=18&bg_color=07131B&title_color=D9B26B&text_color=C9D6DC" width="40%" alt="Top languages"/>
 
 <br/>
 
-<!-- ┌─ TECHNOLOGY ─────────────────────────────────────────────┐ -->
-<div align="center">
-
-**AI · ML · Vision**
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark"/>
-
-**Full-Stack · Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs,postgres,redis,docker,azure&theme=dark"/>
-
-`LangChain` &nbsp;·&nbsp; `LangGraph` &nbsp;·&nbsp; `OpenAI` &nbsp;·&nbsp; `Claude` &nbsp;·&nbsp; `Gemini` &nbsp;·&nbsp; `Hugging Face` &nbsp;·&nbsp; `Qdrant`  
-`YOLOv8` &nbsp;·&nbsp; `ByteTrack` &nbsp;·&nbsp; `ONNX Runtime` &nbsp;·&nbsp; `Whisper` &nbsp;·&nbsp; `AdaFace` &nbsp;·&nbsp; `SCRFD` &nbsp;·&nbsp; `VAPI`
-
-</div>
-
-<br/>
-<img src="./assets/divider.svg" width="100%"/>
-<!-- └──────────────────────────────────────────────────────────┘ -->
-
-<br/>
-
-<!-- ┌─ SELECTED WORK ──────────────────────────────────────────┐ -->
-<div align="center">
-
-<img src="./assets/projects.svg" width="100%" alt="Selected Projects"/>
-
-</div>
-
-<br/>
-<img src="./assets/divider.svg" width="100%"/>
-<!-- └──────────────────────────────────────────────────────────┘ -->
-
-<br/>
-
-<!-- ┌─ GITHUB ─────────────────────────────────────────────────┐ -->
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmadyasin1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=0096C7&text_color=AEAEB2&icon_color=5856D6&bg_color=00000000" width="47%" alt="Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadyasin1&layout=compact&hide_border=true&theme=transparent&title_color=0096C7&text_color=AEAEB2&bg_color=00000000&langs_count=8" width="40%" alt="Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Ahmadyasin1&hide_border=true&background=00000000&ring=0096C7&fire=5856D6&currStreakLabel=0096C7&sideLabels=AEAEB2&dates=636366&currStreakNum=FFFFFF&sideNums=FFFFFF" width="56%" alt="Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadyasin1&custom_title=Contribution+activity&bg_color=03070C&color=D9B26B&line=5CE1E6&point=FBEFC9&area_color=5CE1E6&area=true&hide_border=true&title_color=EDE8DC" width="96%" alt="Contribution activity"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmadyasin1&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
+<a href="https://nexariza.com/contact"><img src="./assets/cta.svg" width="460" alt="Start a project with Nexariza"/></a>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadyasin1&custom_title=Contribution+Activity&bg_color=06060E&color=0096C7&line=5856D6&point=FFFFFF&area_color=0096C7&title_color=FFFFFF&area=true&hide_border=true" width="97%" alt="Activity"/>
+<sub>Hugging Face: [AhmadYasin](https://huggingface.co/AhmadYasin) &nbsp;|&nbsp; Kaggle: [ahmadyasin1](https://www.kaggle.com/ahmadyasin1) &nbsp;|&nbsp; Medium: [@mianahmadyasin](https://medium.com/@mianahmadyasin) &nbsp;|&nbsp; WhatsApp: [+92 370 7348001](https://wa.me/923707348001)</sub>
 
 </div>
-
-<br/>
-<img src="./assets/divider.svg" width="100%"/>
-<!-- └──────────────────────────────────────────────────────────┘ -->
-
-<br/>
-
-<!-- ┌─ CTA ────────────────────────────────────────────────────┐ -->
-<div align="center">
-
-*Building something that needs AI intelligence at its core?*
-
-<br/>
-
-[![Start a Project](https://img.shields.io/badge/Start%20a%20Project%20%E2%86%92-nexariza.com%2Fcontact-0096C7?style=for-the-badge)](https://nexariza.com/contact)
-&nbsp;&nbsp;&nbsp;
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio%20%E2%86%92-ahmadyasin.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmadyasin.vercel.app)
-
-</div>
-
-<br/>
-<img src="./assets/divider.svg" width="100%"/>
-<!-- └──────────────────────────────────────────────────────────┘ -->
-
-<!-- ┌─ DIRECTORY (hidden) ─────────────────────────────────────┐ -->
-<details>
-<summary><sub>All Profiles & Links</sub></summary>
-<br/>
-<div align="center">
-
-| | Ahmad Yasin | | Nexariza AI |
-|:---:|:---|:---:|:---|
-| 🌐 | [ahmadyasin.vercel.app](https://ahmadyasin.vercel.app) | 🌐 | [nexariza.com](https://nexariza.com) |
-| 💼 | [linkedin.com/in/ahmadyasin1](https://www.linkedin.com/in/ahmadyasin1) | 💼 | [Nexariza on LinkedIn](https://www.linkedin.com/company/nexariza) |
-| 💻 | [github.com/Ahmadyasin1](https://github.com/Ahmadyasin1) | 📸 | [@nexariza_ai](https://www.instagram.com/nexariza_ai/) |
-| 🤗 | [huggingface.co/AhmadYasin](https://huggingface.co/AhmadYasin) | 📘 | [Nexariza on Facebook](https://www.facebook.com/nexariza/) |
-| 🧪 | [kaggle.com/ahmadyasin1](https://www.kaggle.com/ahmadyasin1) | 🎯 | [Nexariza on Fiverr](https://www.fiverr.com/s/dDmlq9G) |
-| 🟢 | [g.dev/ahmad-yasin](https://g.dev/ahmad-yasin) | 💼 | [Ahmad on Upwork](https://www.upwork.com/freelancers/~013900a3c3552a40a6) |
-| ✍️ | [medium.com/@mianahmadyasin](https://medium.com/@mianahmadyasin) | 🚀 | [Nexariza on Contra](https://contra.com/company/nexariza_ai_762ab8) |
-| 📸 | [@mianahmadyasin](https://instagram.com/mianahmadyasin) | ▶️ | [Nexariza Learning Hub](https://www.youtube.com/@NexarizaLearningHub) |
-| 📩 | [contact@nexariza.com](mailto:contact@nexariza.com) | 💬 | [WhatsApp](https://wa.me/923707348001) |
-
-</div>
-</details>
-<!-- └──────────────────────────────────────────────────────────┘ -->
-
-<br/>
-
-<!-- ┌─ FOOTER ─────────────────────────────────────────────────┐ -->
-<div align="center">
-<sub>AI Engineering &nbsp;·&nbsp; Intelligent Automation &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Generative AI &nbsp;·&nbsp; Full-Stack AI</sub>
-<br/><br/>
-<a href="https://nexariza.com"><img src="https://img.shields.io/badge/Ahmad%20Yasin%20%C3%97%20Nexariza%20AI-nexariza.com-0096C7?style=flat-square" alt="Nexariza AI"/></a>
-</div>
-<!-- └──────────────────────────────────────────────────────────┘ -->
