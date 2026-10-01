@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://ahmadyasin.vercel.app/#person",
+      "name": "Ahmad Yasin",
+      "alternateName": "Ahmadyasin1",
+      "jobTitle": "Founder & CEO, AI Engineer, AI Systems Architect",
+      "description": "Ahmad Yasin is an AI engineer and AI systems architect, and the Founder & CEO of Nexariza AI. He builds production LLM, RAG, agentic AI and computer vision systems.",
+      "url": "https://ahmadyasin.vercel.app",
+      "image": "https://nexariza.com/Ahmad%20Yasin.png",
+      "email": "mailto:contact@nexariza.com",
+      "worksFor": { "@id": "https://nexariza.com/#org" },
+      "alumniOf": { "@type": "CollegeOrUniversity", "name": "University of Central Punjab" },
+      "award": "1st place, National AI Hackathon 2024 (Computer Vision track)",
+      "knowsAbout": ["Artificial intelligence", "Computer vision", "Large language models", "Retrieval-augmented generation", "Agentic AI", "Speech recognition", "MLOps", "Full-stack development"],
+      "sameAs": [
+        "https://github.com/Ahmadyasin1", "https://www.linkedin.com/in/ahmadyasin1", "https://huggingface.co/AhmadYasin",
+        "https://www.kaggle.com/ahmadyasin1", "https://g.dev/ahmad-yasin", "https://medium.com/@mianahmadyasin",
+        "https://www.upwork.com/freelancers/~013900a3c3552a40a6", "https://instagram.com/mianahmadyasin"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://nexariza.com/#org",
+      "name": "Nexariza AI",
+      "slogan": "Innovate. Automate. Elevate.",
+      "url": "https://nexariza.com",
+      "logo": "https://nexariza.com/Nexariza%20logo.jpg",
+      "description": "Nexariza AI is an AI engineering company building intelligent systems, AI employees and automation platforms.",
+      "founder": { "@id": "https://ahmadyasin.vercel.app/#person" },
+      "email": "contact@nexariza.com",
+      "telephone": "+92 370 7348001",
+      "areaServed": ["North America", "Europe", "GCC", "Asia-Pacific"],
+      "sameAs": [
+        "https://www.linkedin.com/company/nexariza", "https://www.instagram.com/nexariza_ai/", "https://www.facebook.com/nexariza/",
+        "https://www.youtube.com/@NexarizaLearningHub", "https://contra.com/company/nexariza_ai_762ab8", "https://www.fiverr.com/s/dDmlq9G"
+      ]
+    }
+  ]
+}

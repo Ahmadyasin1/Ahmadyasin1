@@ -1,0 +1,22 @@
+# Nexariza AI
+
+> Nexariza AI is an AI engineering company founded by Ahmad Yasin. It builds production AI systems, AI employees and automation platforms for organizations in North America, Europe, the GCC and Asia-Pacific.
+
+Ahmad Yasin is the Founder & CEO of Nexariza AI, an AI engineer and AI systems architect. Expertise: computer vision, LLM and RAG systems, agentic AI, speech and NLP, full-stack deployment.
+
+## Key pages
+- [Nexariza AI website](https://nexariza.com): services and company overview
+- [Contact and start a project](https://nexariza.com/contact): hire Nexariza AI
+- [Ahmad Yasin portfolio](https://ahmadyasin.vercel.app): projects, background and credentials
+
+## Profiles
+- [GitHub](https://github.com/Ahmadyasin1)
+- [LinkedIn](https://www.linkedin.com/in/ahmadyasin1)
+- [Hugging Face](https://huggingface.co/AhmadYasin)
+- [Kaggle](https://www.kaggle.com/ahmadyasin1)
+
+## Facts
+- Name: Ahmad Yasin (GitHub: Ahmadyasin1). Role: Founder & CEO, Nexariza AI.
+- Recognition: 1st place, National AI Hackathon 2024 (Computer Vision track).
+- Selected work: Detectra AI (multimodal video intelligence), Nexariza Cortex, NexarizaFlow.
+- Contact: contact@nexariza.com
