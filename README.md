@@ -24,6 +24,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
+<img src="./assets/constellation.svg" width="100%" alt="How Nexariza builds"/>
 <img src="./assets/expertise.svg" width="100%" alt="Areas of expertise"/>
 <img src="./assets/projects.svg" width="100%" alt="Selected projects"/>
 
